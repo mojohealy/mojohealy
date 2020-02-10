@@ -3,7 +3,7 @@
 name: Michael Healy
 
 # Username (this should match the folder name)
-authors: admin
+authors:
 - admin
 
 # Is this the primary user of the site?
@@ -49,7 +49,6 @@ email: ""
 user_groups: []
 
 ---
-
 
 I am a careers and employability educator and researcher. I collaborate with academic staff to integrate careers and employability learning into or alongside their curriculum. I get the greatest satisfaction from developing and delivering high-quality learning experiences, particularly using online, blended, and social learning approaches.
 
