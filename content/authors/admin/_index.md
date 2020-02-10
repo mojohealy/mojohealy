@@ -32,7 +32,7 @@ social:
   icon_pack: fab
   link: “twitter.com/mojohealy”
 - icon: linkedin
-	  icon_pack: fab
+  icon_pack: fab
   link: “linkedin.com/in/mojohealy”
 - icon: google-scholar
   icon_pack: ai
