@@ -3,14 +3,14 @@
 name: Michael Healy
 
 # Username (this should match the folder name)
-authors:
+authors: admin
 - admin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Educator and Researcher,Careers and Employability Learning 
+role: Educator and Researcher, Careers and Employability Learning 
 
 # Organizations/Affiliations
 organizations:
@@ -51,3 +51,6 @@ user_groups: []
 ---
 
 
+I am a careers and employability educator and researcher. I collaborate with academic staff to integrate careers and employability learning into or alongside their curriculum. I get the greatest satisfaction from developing and delivering high-quality learning experiences, particularly using online, blended, and social learning approaches.
+
+I am pursuing a PhD in careers and employability learning in higher education. In addition to evaluating a dialogical approach to careers and employability learning, my research will be a record of my reflective practice as I seek to innovate in my profession.
