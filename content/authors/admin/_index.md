@@ -15,7 +15,7 @@ role: Educator and Researcher,Careers and Employability Learning
 # Organizations/Affiliations
 organizations:
 - name: University of Southern Queensland
-  url: "www.usq.edu.au"
+  url: “usq.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a careers and employability educator and doctoral student at the University of Southern Queensland.  In am passionate about promoting transformational careers and employability learning, particularly using social cognitive, narrative, and dialogical methods.  
@@ -30,10 +30,10 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:mojohealy@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: “https://twitter.com/mojohealy”
+  link: “twitter.com/mojohealy”
 - icon: google-scholar
   icon_pack: ai
-  link: “https://scholar.google.com.au/citations?user=n1VR84gAAAAJ&hl=en”
+  link: “scholar.google.com.au/citations?user=n1VR84gAAAAJ&hl=en”
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
