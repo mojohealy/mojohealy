@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Educator and Researcher, Careers and Employability Learning 
+role: Careers and employability learning researcher and educator
 
 # Organizations/Affiliations
 organizations:
 - name: University of Southern Queensland
-  url: “usq.edu.au”
+  url: “”
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a careers and employability educator and doctoral student at the University of Southern Queensland.  I am passionate about promoting transformational careers and employability learning, particularly using social cognitive, narrative, and dialogical methods.  
