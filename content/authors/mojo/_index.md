@@ -29,12 +29,12 @@ interests = [
 [[education.courses]]
 course: "PhD candidate, Careers and Employability Learning"
 institution: "University of Southern Queensland"
-year: "Expected completion 2022"
+
 
 [[education.courses]]
 course: "B.A. Hons, History and English Literature"
 institution: "University of Waikato"
-year: "2006"
+year: 2006
 
 # Social/Academic Networking
 #
