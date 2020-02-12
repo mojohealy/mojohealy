@@ -27,14 +27,14 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-course: "PhD candidate, Careers and Employability Learning"
-institution: "University of Southern Queensland"
+  course: "PhD candidate, Careers and Employability Learning"
+  institution: "University of Southern Queensland"
 
 
 [[education.courses]]
-course: "B.A. Hons, History and English Literature"
-institution: "University of Waikato"
-year: 2006
+  course: "B.A. Hons, History and English Literature"
+  institution: "University of Waikato"
+  year: 2006
 
 # Social/Academic Networking
 #
