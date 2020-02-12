@@ -7,6 +7,6 @@ publication_types: ["6"]
 abstract: ""
 featured: false
 publication: "*Career Theories and Models at Work: Ideas for Practice*"
-url: "ceric.ca/publications/career-theories-and-models-at-work-ideas-for-practice/"
+url_: "ceric.ca/publications/career-theories-and-models-at-work-ideas-for-practice/"
 ---
 
