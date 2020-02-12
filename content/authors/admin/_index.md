@@ -18,7 +18,7 @@ organizations:
   url: “usq.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a careers and employability educator and doctoral student at the University of Southern Queensland.  In am passionate about promoting transformational careers and employability learning, particularly using social cognitive, narrative, and dialogical methods.  
+bio: I am a careers and employability educator and doctoral student at the University of Southern Queensland.  I am passionate about promoting transformational careers and employability learning, particularly using social cognitive, narrative, and dialogical methods.  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
