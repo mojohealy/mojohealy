@@ -36,7 +36,6 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "PhD candidate, careers and employability learning"
   institution = "University of Southern Queensland"
-  year = 2012
 
 [[education.courses]]
   course = "B.A. Hons, History"
