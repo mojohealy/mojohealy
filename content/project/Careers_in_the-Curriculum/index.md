@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "My PhD"
-summary: "Bridging the gap between career development theory and graduate employability in higher education."
+title: "Careers in the Curriculum"
+summary: "Collaborating with discipline academics to embed careers and employability learning in the curriculum."
 authors: []
 tags: []
 categories: []
-date: 2020-02-12T21:15:58+10:00
+date: 2020-02-12T21:27:23+10:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
