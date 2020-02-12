@@ -16,7 +16,7 @@ role = "Careers and employability learning researcher and educator"
 organizations = [ { name = "University of Southern Queensland", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I am a careers and employability educator and doctoral student at the University of Southern Queensland.  I am passionate about promoting transformational careers and employability learning, particularly using social, narrative, and dialogical methods.
+bio = "I am a careers and employability educator and doctoral student at the University of Southern Queensland.  I am passionate about promoting transformational careers and employability learning, particularly using social, narrative, and dialogical methods."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
