@@ -47,17 +47,23 @@ email = ""
 #
 #   Full list: https://jpswalsh.github.io/academicons/
 
-social:
-- icon: envelope
+[[social]]
+  icon: envelope
   icon_pack: fas
-  link: "mailto:mojohealy@gmail.com".
-- icon: twitter
+  link: "mailto:mojohealy@gmail.com"
+
+[[social]]
+  icon: twitter
   icon_pack: fab
   link: “twitter.com/mojohealy”
-- icon: linkedin
+
+[[social]]
+  icon: linkedin
   icon_pack: fab
   link: “linkedin.com/in/mojohealy”
-- icon: google-scholar
+
+[[social]]
+  icon: google-scholar
   icon_pack: ai
   link: “scholar.google.com.au/citations?user=n1VR84gAAAAJ&hl=en”
 
