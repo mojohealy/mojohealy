@@ -18,23 +18,16 @@ bio = "I am a careers and employability educator and doctoral student at the Uni
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
-# List (academic) interests or hobbies
-interests = [
-  "Careers and employability learning in higher education",
-  "Career development professional practice",
-  "Dialogical Self Theory in education"
-]
-
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course: "PhD candidate, Careers and Employability Learning"
-  institution: "University of Southern Queensland"
-
+  course = "PhD candidate, Careers and Employability Learning"
+  institution = "University of Southern Queensland"
 
 [[education.courses]]
-  course: "B.A. Hons, History and English Literature"
-  institution: "University of Waikato"
-  year: 2006
+  course = "B.A. Hons, History and English"
+  institution = "University of Waikato"
+  year = 2006
+
 
 # Social/Academic Networking
 #
