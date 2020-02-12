@@ -25,7 +25,8 @@ date_format = "Jan 2006"
   date_start = "2018-03-01"
   date_end = ""
   description = """
-  Leading the industry liaison team within USQ Careers and Employability
+  Leading a team of employer engagement specialists to deliver a range of  services and programs designed to enhance the employability, graduate outcomes, and entrepreneurial mindset of USQ students.
+  Collaborating with academics to incorporate careers and employability learning into the curricula of degree programs
    """
 
 [[experience]]
@@ -36,6 +37,29 @@ date_format = "Jan 2006"
   date_start = "2015-03-01"
   date_end = "2018-03-01"
   description = """
+  Developed a comprehensive career education curriculum in support of Career Ready Advantage, a major institution-wide employability initiative.
+  Collaborated with academics to incorporate careers and employability learning into the curricula of degree programs.
   """
-
+[[experience]]
+  title = "Career Development Consultant"
+  company = "RMIT University Vietnam"
+  company_url = "rmit.edu.vn"
+  location = "Ho Chi Minh City, Vietnam"
+  date_start = "2012-06-01"
+  date_end = "2015-03-01"
+  description = """
+ Wrote and led the publication of Explore, Experience, Engage, a workbook to support students' careers and employability learning.
+Led the development and delivery of Career Passport, a blended careers and employability learning program delivered to more than 200 students per trimester.
+  """
+  
+  [[experience]]
+  title = "Academic English Educator"
+  company = "RMIT University Vietnam, Waikato University"
+  company_url = ""
+  location = "Ho Chi Minh City, Vietnam; Hamilton New Zealand"
+  date_start = "2006-11-01"
+  date_end = "2012-06-01"
+  description = """
+Teaching English language, writing, and research skills in English for Academic Purposes programs. 
+  """
 +++
