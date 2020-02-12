@@ -18,21 +18,18 @@ organizations:
   url: []
   
 # List your academic interests.
-[[interests]]
-  interests = 
-    "Careers and employability learning in higher education",
-    "Career development professional practice",
+interests:
+ - Careers and employability learning in higher education
+ - Career development professional practice
   
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD candidate, Careers and Employability Learning"
-  institution = "University of Southern Queensland"
-  year = "Expected completion 2022"
-
-[[education.courses]]
-  course = "B.A. Hons, History and English Literature"
-  institution = "University of Waikato"
-  year = "2006"
+education:
+ - course = "PhD candidate, Careers and Employability Learning"
+   institution = "University of Southern Queensland"
+   year = "Expected completion 2022"
+ - course = "B.A. Hons, History and English Literature"
+   institution = "University of Waikato"
+   year = "2006"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a careers and employability educator and doctoral student at the University of Southern Queensland.  I am passionate about promoting transformational careers and employability learning, particularly using social cognitive, narrative, and dialogical methods.  
