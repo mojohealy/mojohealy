@@ -15,7 +15,7 @@ role: Careers and employability learning researcher and educator
 # Organizations/Affiliations
 organizations:
 - name: University of Southern Queensland
-  url: 
+  url: []
   
 # List your academic interests.
 [[interests]]
