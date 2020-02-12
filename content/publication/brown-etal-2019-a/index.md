@@ -4,7 +4,22 @@ date: 2019-07-01
 publishDate: 2020-02-12T12:04:07.815427Z
 authors: ["Jason L. Brown", "Michael Healy", "Tessa McCredie", "Peter McIlveen"]
 publication_types: ["2"]
-abstract: "(2019). Career services in Australian higher education: aligning the training of practitioners to contemporary practice. Journal of Higher Education Policy and Management: Vol. 41, Employability and employment outcomes as drivers of higher education practice: Implications for development of a future-capable workforce, pp. 518-533."
+abstract: "As university graduates face increasingly changing and challenging
+labour markets and work environments, universities are prioritising
+the work of helping students develop their graduate employability.
+As a result, university Career Services and career development practitioners
+are subject to changing strategic and operational approaches
+to the provision of careers and employability learning opportunities
+at institution-wide scale. In this study, we examine current conceptualisations
+of careers and employability practice through the analysis
+of three sources of data: programdescriptions of postgraduate career
+development qualifications, position descriptions for careers and
+employability jobs advertised in Australia over the past four years,
+and focus groups with career development practitioners. Weevaluate
+how well existing career development qualifications align with the
+work of contemporary university career development practitioners,
+and identify opportunities to continue evolving the profession, to
+better help our students meet the demands of future life and work."
 featured: false
 publication: "*Journal of Higher Education Policy and Management*"
 url_: "doi.org/10.1080/1360080X.2019.1646380"
