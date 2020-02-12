@@ -15,15 +15,14 @@ role: Careers and employability learning researcher and educator
 # Organizations/Affiliations
 organizations:
 - name: University of Southern Queensland
-  url: []
+  url: 
   
 # List your academic interests.
-[interests]
-  interests = [
+[[interests]]
+  interests = 
     "Careers and employability learning in higher education",
     "Career development professional practice",
-  ]
-
+  
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD candidate, Careers and Employability Learning"
