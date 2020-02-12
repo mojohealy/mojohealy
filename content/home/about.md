@@ -15,12 +15,12 @@ weight = 10  # Order that this section will appear in.
 [[education.courses]]
   course = "PhD candidate, Careers and Employability Learning"
   institution = "University of Southern Queensland"
-  year = Expected completion 2022
+  year = "Expected completion 2022"
 
 [[education.courses]]
   course = "B.A. Hons, History and English Literature"
   institution = "University of Waikato"
-  year = 2006
+  year = "2006"
  ""
 
 # Choose the user profile to display
