@@ -75,6 +75,6 @@ user_groups = ["Researchers", "Visitors"]
 #   link = "files/cv.pdf"
 +++
 
-I am a careers and employability educator and researcher. I collaborate with academic staff to integrate careers and employability learning into or alongside their curriculum. I get the greatest satisfaction from developing and delivering high-quality learning experiences, particularly using online, blended, and social learning approaches.
+I am a careers and employability educator and researcher at the University of Southern Queensland, Australia. I lead the development of a range of careers and employability services and program, and collaborate with academic staff to integrate careers and employability learning into the curriculum. 
 
 I am pursuing a PhD in careers and employability learning in higher education. In addition to evaluating a dialogical approach to careers and employability learning, my research will be a record of my reflective practice as I seek to innovate in my profession.
