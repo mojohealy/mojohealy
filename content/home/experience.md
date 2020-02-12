@@ -26,6 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Leading a team of employer engagement specialists to deliver a range of  services and programs designed to enhance the employability, graduate outcomes, and entrepreneurial mindset of USQ students.
+  
   Collaborating with academics to incorporate careers and employability learning into the curricula of degree programs
    """
 
@@ -38,6 +39,7 @@ date_format = "Jan 2006"
   date_end = "2018-03-01"
   description = """
   Developed a comprehensive career education curriculum in support of Career Ready Advantage, a major institution-wide employability initiative.
+  
   Collaborated with academics to incorporate careers and employability learning into the curricula of degree programs.
   """
 [[experience]]
