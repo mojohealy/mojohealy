@@ -21,7 +21,6 @@ weight = 10  # Order that this section will appear in.
   course = "B.A. Hons, History and English Literature"
   institution = "University of Waikato"
   year = "2006"
- ""
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.
