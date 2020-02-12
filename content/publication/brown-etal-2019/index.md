@@ -7,7 +7,7 @@ publication_types: ["6"]
 abstract: ""
 featured: false
 publication: "*Higher Education and the Future of Graduate Employability: A Connectedness Learning Approach*"
-url_pdf: "https://doi.org/10.4337/9781788972611.00015"
+url: "https://doi.org/10.4337/9781788972611.00015"
 doi: "10.4337/9781788972611.00015"
 ---
 
