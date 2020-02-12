@@ -13,7 +13,7 @@ role = "Careers and employability learning researcher and educator"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Southern Queensland", url = "" } ]
+# organizations = [ { name = "University of Southern Queensland", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "I am a careers and employability educator and doctoral student at the University of Southern Queensland.  I am passionate about promoting transformational careers and employability learning, particularly using social, narrative, and dialogical methods."
@@ -23,7 +23,7 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Careers and employability learning",
+  "Careers and employability learning in higher education",
   "Career development professional practice",
   "Dialogical Self Theory in education"
 ]
