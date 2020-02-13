@@ -12,6 +12,4 @@ header:
   caption: ""
   image: ""
 
-aliases = ["/blog/"]
-
 ---
