@@ -9,7 +9,7 @@ authors = "mojo"
 superuser = true
 
 # Role/position
-role = "Careers and employability learning researcher and educator"
+role = "Careers and employability learning expert"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -24,9 +24,7 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Careers and employability learning in higher education",
-  "Career development professional practice",
-  "Dialogical Self Theory in education"
-]
+  "Career development professional practice"]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -34,7 +32,7 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD candidate, careers and employability learning"
+  course = "PhD candidate, careers and employability"
   institution = "University of Southern Queensland"
 
 [[education.courses]]

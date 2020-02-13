@@ -3,7 +3,7 @@
 
 title: "What is best practice in careers education?"
 subtitle: "An outline of the evidence."
-summary: "Studies measuring the impact of career interventions can inform an evidence-based model of careers and employability learning."
+summary: "Studies measuring the impact of career interventions can inform an evidence-based model of best practice in careers and employability learning."
 authors: []
 tags: ["CEL", "evidence"]
 categories: []
