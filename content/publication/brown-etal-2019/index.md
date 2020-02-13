@@ -8,5 +8,6 @@ abstract: "_You've been doing employability the wrong way_ would be the click-ba
 featured: false
 publication: "*Higher Education and the Future of Graduate Employability: A Connectedness Learning Approach*"
 doi: "10.4337/9781788972611.00015"
+preprint: "https://mojohealy.com/publication/brown-etal-2019/brown-etal-2019.pdf"
 ---
 
