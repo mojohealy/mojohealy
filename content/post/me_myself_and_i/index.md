@@ -3,7 +3,7 @@
 
 title: "Me, Myself, and I"
 subtitle: ""
-summary: "An account of the ways we ‘narrate’ our lives inside our head and how the Dialogical-Self theory may help doctoral students maintain balance."
+summary: "How reflecting on the ways we narrate our daily life may help doctoral students maintain balance."
 authors: []
 tags: ["dialogical self", "autoethnography"]
 categories: []
