@@ -3,7 +3,7 @@
 
 title: "What is best practice in careers education?"
 subtitle: "An outline of the evidence."
-summary: "Studies measuring the impact of career interventions can inform a model of career education evidence-based best practice."
+summary: "Studies measuring the impact of career interventions can inform an evidence-based model of careers and employability learning."
 authors: []
 tags: ["CEL", "evidence"]
 categories: []
@@ -63,7 +63,7 @@ Rather, it enriches the value of critical ingredients as key approaches to caree
 
 # Career education best practices
 These studies aggregate decades of research and hundreds of career intervention program evaluations. 
-Taken together, they can be used to inform a model of evidence-based best practice in the provision of career education:  
+Taken together, they can be used to inform an evidence-based model best practice in the provision of careers and employability learning:  
 
 * repeated interventions are more effective than one-off interventions;  
 * interventions facilitated by a career development expert are more effective than self-directed or computer-mediated interventions;   
