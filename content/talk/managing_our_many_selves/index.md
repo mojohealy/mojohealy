@@ -3,7 +3,7 @@
 
 title: "Managing our many selves: How to use the Dialogical Self-Theory to help your clients explore their professional identities"
 event: "CERIC webinar series: Career Theories and Models at Work"
-event_url:"https://ceric.ca/events/free-webinar-series-career-theories-and-models-at-work-book-july-9-10-11-2019/"
+event_url: "https://ceric.ca/events/free-webinar-series-career-theories-and-models-at-work-book-july-9-10-11-2019/"
 location: 
 address:
   street:
@@ -11,9 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: "When it comes to career choices, we often face clients who have difficulty in narrating their career autobiography and their futures professional inspirations. In this free webinar, Michael Healy will develop the theory behind the career autobiography writing exercise outlined in his chapter called My Career Chapter. My Career Chapter, like career writing in general, is grounded in theory and evidence and has the potential to promote true transformational career learning for the client. This is a qualitative career assessment and counselling tool based on dialogical self-theory (DST) in which clients articulate and mediate I-positions through creative, expressive and reflective writing.
-
-Dialogical self-theory (DST) frames the self as a society of mind comprising a multiplicity of I-positions in dialogue with each other. In difficult times, I-positions conflict with or oppose each other and dialogues between them express self-doubt or self-criticism. DST also conceptualizes several kinds of supportive I-positions that can act as mediators and, when applied to career development theory and practice, provides a way to help people make sense of their career thoughts and cope with difficult experiences."
+summary: "When it comes to career choices, we often face clients who have difficulty in narrating their career autobiography and their futures professional inspirations. In this free webinar, Michael Healy will develop the theory behind the career autobiography writing exercise outlined in his chapter called My Career Chapter. My Career Chapter, like career writing in general, is grounded in theory and evidence and has the potential to promote true transformational career learning for the client. This is a qualitative career assessment and counselling tool based on dialogical self-theory (DST) in which clients articulate and mediate I-positions through creative, expressive and reflective writing. Dialogical self-theory (DST) frames the self as a society of mind comprising a multiplicity of I-positions in dialogue with each other. In difficult times, I-positions conflict with or oppose each other and dialogues between them express self-doubt or self-criticism. DST also conceptualizes several kinds of supportive I-positions that can act as mediators and, when applied to career development theory and practice, provides a way to help people make sense of their career thoughts and cope with difficult experiences."
 
 abstract:
 
