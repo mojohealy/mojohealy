@@ -72,7 +72,7 @@ user_groups = ["Researchers", "Visitors"]
 
 [[social]]
   icon = "researchgate"
-  icon = "ai"
+  icon_pack = "ai"
   link = "https://www.researchgate.net/profile/Michael_Healy6"
 
 # Link to a PDF of your resume/CV from the About widget.
