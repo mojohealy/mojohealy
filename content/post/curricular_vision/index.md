@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "# My curricular vision of careers and employability learning"
+title: "My curricular vision of careers and employability learning"
 subtitle: ""
 summary: "What does employability mean, why is it a challenge for students, and what might a university do to help them?"
 authors: []
