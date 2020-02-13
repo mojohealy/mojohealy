@@ -33,7 +33,7 @@ _This article was originally published on [LinkedIn](https://www.linkedin.com/pu
 An important pillar of the evidence base of career education practice is formed by a series of meta-analyses of career intervention studies published over the last 30 years. 
 These studies have measured the impact of career interventions and explored the influence of different intervention methods and approaches (Baker and Taylor 1998; Brown and Roche 2016; Brown et al. 2003; Brown and Ryan Krane 2000; Oliver and Spokane 1988; Whiston, Sexton, and Lasoff 1998; Whiston, Brecheisen, and Stephens 2003; Langher, Nannini, and Caputo 2018; Ozlem 2019).
 
-In these studies, what makes a "career intervention" is defined broadly, as any effort made to improve clients‚Äô career development, which is most often measured as career maturity, career decision-making, vocational identity, or perceptions of environmental factors. 
+In these studies, what makes a "career intervention" is defined broadly, as any effort made to improve clientsí career development, which is most often measured as career maturity, career decision-making, vocational identity, or perceptions of environmental factors. 
 Career interventions can be individual or group counselling, workshops, career development classes, the provision of career information and self-help resources, or computer-based or -assisted activities.
 
 These meta-analyses have consistently found that career interventions do indeed help people, to a moderate but statistically significant degree. 
@@ -82,24 +82,24 @@ It can be used to justify the space we need to take in the curriculum, our need 
 Careers and employability educators owe it to their students and themselves to base their work on, and evaluate it against, evidence such as this, and to let their institutional colleagues and communities know all about it.
 
 # References
-Baker, Stanley B., and John G. Taylor. 1998. ‚ÄúEffects of Career Education Interventions: A Meta-Analysis.‚Äù The Career Development Quarterly 46 (4): 376‚Äì85. https://doi.org/10.1002/j.2161-0045.1998.tb00714.x.
+Baker, Stanley B., and John G. Taylor. 1998. ìEffects of Career Education Interventions: A Meta-Analysis.î The Career Development Quarterly 46 (4): 376ñ85. https://doi.org/10.1002/j.2161-0045.1998.tb00714.x.
 
-Bransford, John, Linda Darling-Hammond, and Pamela LePage. 2012. ‚ÄúIntroduction.‚Äù In Preparing Teachers for a Changing World‚ÄØ: What Teachers Should Learn and Be Able to Do, edited by Linda Darling-Hammond and John Bransford, 1‚Äì39. Somerset, England: Wiley.
+Bransford, John, Linda Darling-Hammond, and Pamela LePage. 2012. ìIntroduction.î In Preparing Teachers for a Changing World?: What Teachers Should Learn and Be Able to Do, edited by Linda Darling-Hammond and John Bransford, 1ñ39. Somerset, England: Wiley.
 
-Brown, Steven D., and Meghan Roche. 2016. ‚ÄúThe Outcomes of Vocational Interventions: Thirty (Some) Years Later.‚Äù Journal of Career Assessment 24 (1): 26‚Äì41. https://doi.org/10.1177/1069072715579666.
+Brown, Steven D., and Meghan Roche. 2016. ìThe Outcomes of Vocational Interventions: Thirty (Some) Years Later.î Journal of Career Assessment 24 (1): 26ñ41. https://doi.org/10.1177/1069072715579666.
 
-Brown, Steven D., and Nancy E. Ryan Krane. 2000. ‚ÄúFour (or Five) Sessions and a Cloud of Dust: Old Assumptions and New Observations About Career Counseling.‚Äù In Handbook of Counseling Psychology, edited by Steven D. Brown and Robert W. Lent, 3rd ed., 740‚Äì66. New York, NY: Wiley.
+Brown, Steven D., and Nancy E. Ryan Krane. 2000. ìFour (or Five) Sessions and a Cloud of Dust: Old Assumptions and New Observations About Career Counseling.î In Handbook of Counseling Psychology, edited by Steven D. Brown and Robert W. Lent, 3rd ed., 740ñ66. New York, NY: Wiley.
 
-Brown, Steven D., Nancy E. Ryan Krane, Jessica Brecheisen, Paul Castelino, Ivan Budisin, Matthew Miller, and Laurie Edens. 2003. ‚ÄúCritical Ingredients of Career Choice Interventions: More Analyses and New Hypotheses.‚Äù Journal of Vocational Behavior 62 (3): 411‚Äì28. https://doi.org/10.1016/S0001-8791(02)00052-0.
+Brown, Steven D., Nancy E. Ryan Krane, Jessica Brecheisen, Paul Castelino, Ivan Budisin, Matthew Miller, and Laurie Edens. 2003. ìCritical Ingredients of Career Choice Interventions: More Analyses and New Hypotheses.î Journal of Vocational Behavior 62 (3): 411ñ28. https://doi.org/10.1016/S0001-8791(02)00052-0.
 
-Langher, Viviana, Valentina Nannini, and Andrea Caputo. 2018. ‚ÄúWhat Do University or Graduate Students Need to Make the Cut? A Meta-Analysis on Career Intervention Effectiveness.‚Äù ECPS - Educational Cultural and Psychological Studies, no. 17 (June): 1. https://doi.org/10.7358/ecps-2018-017-lang.
+Langher, Viviana, Valentina Nannini, and Andrea Caputo. 2018. ìWhat Do University or Graduate Students Need to Make the Cut? A Meta-Analysis on Career Intervention Effectiveness.î ECPS - Educational Cultural and Psychological Studies, no. 17 (June): 1. https://doi.org/10.7358/ecps-2018-017-lang.
 
-Oliver, Laurel W., and Arnold R. Spokane. 1988. ‚ÄúCareer-Intervention Outcome: What Contributes to Client Gain?‚Äù Journal of Counseling Psychology 35 (4): 447. http://psycnet.apa.org/journals/cou/35/4/447/.
+Oliver, Laurel W., and Arnold R. Spokane. 1988. ìCareer-Intervention Outcome: What Contributes to Client Gain?î Journal of Counseling Psychology 35 (4): 447. http://psycnet.apa.org/journals/cou/35/4/447/.
 
-Ozlem, Ulas-Kilic. 2019. ‚ÄúThe Effects of Career Interventions on University Students‚Äô Levels of Career Decision-Making Self-Efficacy: A Meta-Analytic Review.‚Äù Australian Journal of Career Development 28 (3): 223‚Äì33. https://doi.org/10.1177/1038416219857567.
+Ozlem, Ulas-Kilic. 2019. ìThe Effects of Career Interventions on University Studentsí Levels of Career Decision-Making Self-Efficacy: A Meta-Analytic Review.î Australian Journal of Career Development 28 (3): 223ñ33. https://doi.org/10.1177/1038416219857567.
 
-Whiston, Susan C., Briana K. Brecheisen, and Joy Stephens. 2003. ‚ÄúDoes Treatment Modality Affect Career Counseling Effectiveness?‚Äù Journal of Vocational Behavior 62 (3): 390‚Äì410. https://doi.org/10.1016/S0001-8791(02)00050-7.
+Whiston, Susan C., Briana K. Brecheisen, and Joy Stephens. 2003. ìDoes Treatment Modality Affect Career Counseling Effectiveness?î Journal of Vocational Behavior 62 (3): 390ñ410. https://doi.org/10.1016/S0001-8791(02)00050-7.
 
-Whiston, Susan C., Yue Li, Nancy Goodrich Mitts, and Lauren Wright. 2017. ‚ÄúEffectiveness of Career Choice Interventions: A Meta-Analytic Replication and Extension.‚Äù Journal of Vocational Behavior 100 (June): 175‚Äì84. https://doi.org/10.1016/j.jvb.2017.03.010.
+Whiston, Susan C., Yue Li, Nancy Goodrich Mitts, and Lauren Wright. 2017. ìEffectiveness of Career Choice Interventions: A Meta-Analytic Replication and Extension.î Journal of Vocational Behavior 100 (June): 175ñ84. https://doi.org/10.1016/j.jvb.2017.03.010.
 
-Whiston, Susan C., Thomas L. Sexton, and David L. Lasoff. 1998. ‚ÄúCareer-Intervention Outcome: A Replication and Extension of Oliver and Spokane (1988).‚Äù Journal of Counseling Psychology 45 (2): 150‚Äì65. https://doi.org/10.1037/0022-0167.45.2.150.
+Whiston, Susan C., Thomas L. Sexton, and David L. Lasoff. 1998. ìCareer-Intervention Outcome: A Replication and Extension of Oliver and Spokane (1988).î Journal of Counseling Psychology 45 (2): 150ñ65. https://doi.org/10.1037/0022-0167.45.2.150.
