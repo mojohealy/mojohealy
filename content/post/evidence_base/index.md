@@ -3,7 +3,7 @@
 
 title: "What is best practice in careers education?"
 subtitle: "An outline of the evidence."
-summary: "A number of studies have measured the impact of career interventions and the influence of different intervention methods. They inform a model of career education evidence-based best practice."
+summary: "Studies measuring the impact of career interventions can inform a model of career education best practice."
 authors: []
 tags: ["CEL", "evidence"]
 categories: []
