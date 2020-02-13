@@ -27,6 +27,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+_This post originally appeared on [CareerWise](https://careerwise.ceric.ca/2019/06/28/dialogical-self-theory/), the online magazine of [CERIC](https://ceric.ca/), a Canadian charitable organization that advances education and research in career counselling and career development. _
+
 Often, when we discuss the ways people narrate their lives inside their heads, we refer to their internal monologue. 
 But is it really a monologue? 
 Don’t we in fact “hear” many different voices and experience the influence of many different perspectives when we tackle new experiences, work through problems, suffer defeats and exalt in victories?
