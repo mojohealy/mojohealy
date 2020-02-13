@@ -3,7 +3,7 @@
 
 title: "# My curricular vision of careers and employability learning"
 subtitle: ""
-summary: ""
+summary: "What does employability mean, why is it a challenge for students, and what might a university do to help them?"
 authors: []
 tags: ["CEL"]
 categories: []

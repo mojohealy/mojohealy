@@ -2,10 +2,10 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Dialogical careers and employability learning"
-subtitle: ""
+subtitle: "Dialogical careers and employability learning helps students reflect, learn from others, and connect with professional communities."
 summary: ""
-authors: []
-tags: []
+authors: 
+tags: ["CEL"]
 categories: []
 date: 2020-02-13T15:22:01+10:00
 lastmod: 2020-02-13T15:22:01+10:00
