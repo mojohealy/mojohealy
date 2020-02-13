@@ -5,7 +5,7 @@ title: "Dialogical careers and employability learning"
 subtitle: ""
 summary: "Dialogical careers and employability learning helps students reflect, learn from others, and connect with professional communities."
 authors: 
-tags: ["CEL"]
+tags: ["CEL", "dialogical self"]
 categories: []
 date: 2020-02-13T15:22:01+10:00
 lastmod: 2020-02-13T15:22:01+10:00

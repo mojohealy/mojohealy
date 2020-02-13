@@ -16,7 +16,7 @@ abstract: "Welcome to CDAA's new webinar series where we discuss contemporary ca
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-02-20
+date: "2019-02-20"
 # date_end: 2020-02-13T22:11:57+10:00
 all_day: false
 
