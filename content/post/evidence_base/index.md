@@ -3,7 +3,7 @@
 
 title: "What is best practice in careers education?"
 subtitle: "An outline of the evidence."
-summary: ""
+summary: "A number of studies have measured the impact of career interventions and the influence of different intervention methods. They inform a model of career education evidence-based best practice."
 authors: []
 tags: ["CEL", "evidence"]
 categories: []
@@ -31,17 +31,17 @@ projects: []
 _This article was originally published on [LinkedIn](https://www.linkedin.com/pulse/what-best-practice-careers-education-outline-evidence-michael-healy/)_. 
 
 An important pillar of the evidence base of career education practice is formed by a series of meta-analyses of career intervention studies published over the last 30 years. 
-These studies have measured the impact of career interventions and explored the influence of different intervention methods and approaches [@baker.taylor1998; @brown.roche2016; @brown.etal2003; @brown.ryankrane2000; @oliver.spokane1988; @whiston.etal1998; @whiston.etal2003; @whiston.etal1998; @langher.etal2018; @ozlem2019].
+These studies have measured the impact of career interventions and explored the influence of different intervention methods and approaches (Baker and Taylor 1998; Brown and Roche 2016; Brown et al. 2003; Brown and Ryan Krane 2000; Oliver and Spokane 1988; Whiston, Sexton, and Lasoff 1998, 1998; Whiston, Brecheisen, and Stephens 2003; Langher, Nannini, and Caputo 2018; Ozlem 2019).
 
 In these studies, what makes a "career intervention" is defined broadly, as any effort made to improve clients’ career development, which is most often measured as career maturity, career decision-making, vocational identity, or perceptions of environmental factors. 
 Career interventions can be individual or group counselling, workshops, career development classes, the provision of career information and self-help resources, or computer-based or -assisted activities.
 
 These meta-analyses have consistently found that career interventions do indeed help people, to a moderate but statistically significant degree. 
-In the most recent study, Whiston et al. [-@whiston.etal2017] reported that on average, participants in a career intervention had a 60% chance of attaining a higher outcome measure than members of the control group who didn't participate in the intervention, a finding consistent with those of previous studies. 
+In the most recent study, Whiston et al. (2017) reported that on average, participants in a career intervention had a 60% chance of attaining a higher outcome measure than members of the control group who didn't participate in the intervention, a finding consistent with those of previous studies. 
 These studies have also found that repeated interventions are more effective than one-off interventions, group interventions are almost as effective as individual interventions, and interventions that are facilitated by an expert career development practitioner are more effective than those that are not.
 
 # Critical ingredients of career interventions
-In a particularly influential study, Brown and Ryan Krane [-@brown.ryankrane2000] identified five critical ingredients that had a significant impact on the effectiveness of career interventions:
+In a particularly influential study, Brown and Ryan Krane (2000) identified five critical ingredients that had a significant impact on the effectiveness of career interventions:
 
 * written exercises  
 * individualised interpretations and feedback  
@@ -51,13 +51,13 @@ In a particularly influential study, Brown and Ryan Krane [-@brown.ryankrane2000
 
 They found that critical ingredients are most effective when combined, so that interventions that included three or more ingredients were much more effective than those that included only one or two.
 
-Whiston et al. [-@whiston.etal2017] partially replicated Brown and Ryan Krane's [-@brown.ryankrane2000] findings, supporting the importance of written workbooks, personalised feedback, and world of work information but adding three new critical ingredients that were found to have a greater impact than the original five:
+Whiston et al. (2017) partially replicated Brown and Ryan Krane's (2000) findings, supporting the importance of written workbooks, personalised feedback, and world of work information but adding three new critical ingredients that were found to have a greater impact than the original five:
 
 * counsellor support  
 * values clarification  
 * psychoeducation (exploring the process of making and working toward decisions).  
 
-It is impossible to compare the critical ingredients of Brown and Ryan Krane [-@brown.ryankrane2000] with those of Whiston et al. [-@whiston.etal2017] directly, because Brown and Ryan Krane's [-@brown.ryankrane2000] study did not report the effect sizes or statistical significance of each critical ingredient. 
+It is impossible to compare the critical ingredients of Brown and Ryan Krane (2000) with those of Whiston et al. (2017) directly, because Brown and Ryan Krane's (2000) study did not report the effect sizes or statistical significance of each critical ingredient. 
 This limited replication of the critical ingredients does not show that critical ingredients are not valid as signposts toward career intervention best practice. 
 Rather, it enriches the value of critical ingredients as key approaches to career interventions, while also highlighting that practitioners and researchers need to treat them with critical caution.
 
@@ -74,7 +74,7 @@ Taken together, they can be used to inform a model of evidence-based best practi
 
 # Putting it to work
 Obviously, this evidence base should be used by reflexive career education practitioners as they design, implement, and evaluate their own projects. 
-It can contribute to a "curricular vision" [@bransford.etal2012, p. 35] of career education which guides decisions about what kinds of transformative career learning outcomes we want for our students and how we can best facilitate them. 
+It can contribute to a "curricular vision" (Bransford etal, 2012, p. 35) of career education which guides decisions about what kinds of transformative career learning outcomes we want for our students and how we can best facilitate them. 
 
 But just as importantly, this evidence-base should also be used by career educators to advocate for our profession and support efforts to assert our expertise in our collaborative and consultative roles. 
 It can be used to justify the space we need to take in the curriculum, our need to have repeated exposure to students, and the time we need to develop relationships with students, promote social learning, and give effective feedback.
