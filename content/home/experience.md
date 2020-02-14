@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -51,6 +51,7 @@ date_format = "Jan 2006"
   date_end = "2015-03-01"
   description = """
  Wrote and led the publication of Explore, Experience, Engage, a workbook to support students' careers and employability learning.
+ 
 Led the development and delivery of Career Passport, a blended careers and employability learning program delivered to more than 200 students per trimester.
   """
   
