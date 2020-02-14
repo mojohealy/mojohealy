@@ -24,7 +24,10 @@
   url = "#experience"
   weight = 50
 
-#
+[[main]]
+  name = "Blog"
+  url = "#posts"
+  weight = 60
 
 [[main]]
   name = "Contact"
