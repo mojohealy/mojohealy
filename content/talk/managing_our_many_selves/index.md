@@ -17,7 +17,7 @@ abstract: "When it comes to career choices, we often face clients who have diffi
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-06-09"
+date: 2019-06-09
 # date_end: 2020-02-13T21:45:06+10:00
 all_day: false
 
