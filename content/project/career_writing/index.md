@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Career_writing"
+title: "Career writing"
 summary: ""
 authors: []
-tags: []
+tags: ["CEL", "career writing", "dialogical self"]
 categories: []
 date: 2020-02-14T15:54:37+10:00
 
@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "Photo by Brad Neathery on Unsplash"
   focal_point: ""
   preview_only: false
 
