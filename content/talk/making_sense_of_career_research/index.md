@@ -4,7 +4,7 @@
 title: "Making sense of career research series"
 event: "Career Development Association of Australia webinar series"
 event_url: "https://www.cdaa.org.au/events/event/Webinar-Making-Sense-of-Career-Research"
-location:
+location: "Webinar"
 address:
   street:
   city:

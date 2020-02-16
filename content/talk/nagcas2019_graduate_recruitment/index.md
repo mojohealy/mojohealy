@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: "Sharing our design and initial implementation of USQ's online graduate recruitment simulation."
+summary: "Sharing the design and initial implementation of USQ's online graduate recruitment simulation."
 abstract: "Although not all graduates participate in full graduate recrutiment processes, the skills and behaviors necessary for success through each stage are essential for all to master. In an effort to demistify the graduate recrutiment process specifically and raise our students' job seeking skills and confidence in general, we designed a comprehensive mock graduate recrutiment process, culminating in a simulated assessment centre. In order to make the learning opportunities available to all students, we have designed it to be delivered entirely online, including the assessment centre. Furthermore, employer participation has been built into the program to ensure relevance and promote engagement between students and employers. In addition to being delivered as a co-curricular activity, the program has recently been embedded into academic programs. This presentation will describe the program in detail, highlight key pedagogical and design principles, and share insights from our initial implementation."
 
 # Talk start and end times.

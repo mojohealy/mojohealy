@@ -4,7 +4,7 @@
 title: "The changing nature of career support in Higher Education"
 event: "Career Industry Council of Australia webinar"
 event_url: "https://www.facebook.com/events/421573901681039/"
-location:
+location: "Webinar"
 address:
   street:
   city:

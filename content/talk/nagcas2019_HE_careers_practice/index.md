@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: "Presentation at NAGCAS 2019 of the article [Brown, Healy, McCredie, & McIlveen, 2019](https://mojohealy.com/publication/brown-etal-2019-a/) on the changes in career development practice in Australian universities."
+summary: "Presentation at NAGCAS 2019 of [our article](https://mojohealy.com/publication/brown-etal-2019-a/) on changes in career development practice."
 abstract: "In this presentation, we report on a recent research project where we examined current trends in higher education careers and employability practice through the analysis of three sources of data- program descriptions of postgraduate career development qualifications, position descriptions for careers and employability jobs advertised in Australia over the past four years, and focus groups with career development practitioners working in higher education. Our findings highlight how the work of careers and employability practice is changing in Australian universities. We will discuss how the entry level qualifications for our profession (and therefore minimum requirements to be a professional member of NAGCAS) are not catering to the diversity of practitioners working in university Career Services. We will also describe our findings of 5 broad categories of roles within Careers Services, which may assist with efforts to improve the benchmarking of services"
 
 # Talk start and end times.

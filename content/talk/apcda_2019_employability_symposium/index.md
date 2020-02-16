@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: 
+summary: "An overview in advances in understanding employability from [ACCELL](https://accell-research.com/) members."
 abstract: "What is employability? Is employability an affordance of social and economic contexts? Is employability a statistical index of the job market? Is employability a personal asset owned and managed by an individual? Whatever it is, employability certainly is a contested notion for scholars, practitioners, and policy experts. This symposium by the multidisciplinary research team ACCELL includes theoretical, empirical, and practical perspectives on employability. We present new evidence about employability’s conceptualization and measurement in studies conducted in Australia, Indonesia, and Vietnam, and empirical evidence of the contribution of dispositional traits, characteristic adaptations, and narratives to employability. Presenters- Peter McIlveen,Carolyn Alchin, Jason Brown, Allison Creed, Michael Healy, Chris Kossen, Jennifer Luke, Tessa McCredie."
 
 # Talk start and end times.
