@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary:
+summary: "A panel discussion on the changes in HE careers services, delivered for the Careers Industry Council of Australia."
 abstract: "The Australian Higher Education sector is going through massive change influenced by a number of factors, performance-based funding attached to clear sector benchmarks and the continued increase in student numbers. One area affected by these influences and changes is the ‘traditional’ career services. This webinar will host a panel of experts from the Higher Education sector to discuss and answer questions on the changing nature of career support in the Higher Education Sector. The session’s genesis was a CICA council conversation early in 2019 where it became apparent that many of the sister organisations of NAGCAS (National Association of Graduate Career Advisory Services) were unaware of the changing nature of not only the HE sector but the levels and types of support provided to students at Universities in particular. The panel will discuss and share different models of career support at universities across the country and will also draw upon the recently published paper by two of the panel members."
 
 # Talk start and end times.

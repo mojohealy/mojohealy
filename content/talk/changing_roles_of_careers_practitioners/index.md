@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary:
+summary: "A webinar delivered for the CDAA, presenting findings from our 2019 article on careers practitioners in Australian HE."
 abstract: "We know the world of work is changing and the pace of this change in some sectors is head-spinning. As practitioners, we attempt to keep up to date with industry changes so we can help our clients’ succeed in the labour market. Some changes we are starting to see include the rise of technology in recruitment and selection processes, increases in precarious employment, and rapid changes in industries that have impact on our client’s continued opportunities for employment. In this webinar, we ask are we immune from disruption or changes to our jobs? We will look at a new study which examined the job descriptions of career practitioners working in higher education. This research paints a picture of practitioners working in an environment demanding innovation and redefinition of who we are and what we do. We will then open up the discussion about what changes practitioners are experiencing in private practice, organisations, community and education sectors."
 
 # Talk start and end times.

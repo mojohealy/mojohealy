@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary:
+summary: "A kind of journal artice reading club, led by Lizzie Knight, Jason Brown, and Michael Healy."
 abstract: "Welcome to CDAA's new webinar series where we discuss contemporary career research and think about how we can use it in practice. We will present relevant, open access, peer-reviewed research and we look forward to members discussing how useful and applicable this material can be.The sessions are presented and facilitated by Dr Lizzie Knight - Research Fellow at Monash University, Jason Brown - Manager, Careers & Employability at LaTrobe University, and Michael Healy - Employability Coordinator, University of Southern Queensland. These presentations require no prior research knowledge but simply an interest in careers - like a book club for career counsellors. They will be held the 3rd Wednesday of February, May, August and November with times as advertised."
 
 # Talk start and end times.
