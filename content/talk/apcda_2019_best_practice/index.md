@@ -16,12 +16,12 @@ abstract: "An important pillar of the evidence base of career education practice
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-05-22T00:00:00+00:00
-date_end: 2020-02-16T19:55:32+10:00
+date: 2019-05-22T00:00:00+00:00
+date_end: 2019-02-16T19:55:32+10:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-05-22T00:00:00+00:00
+publishDate: 2019-05-22T00:00:00+00:00
 
 authors: []
 tags: ["CEL"]
