@@ -27,7 +27,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-_This post originally appeared on [Career Panorama](hhttps://www.cdaa.org.au/blog/experiences-and-learnings-from-the-2019-apcda-annual-conference), the blog of the Career Development Association of Australia, who generously supported my travel to the 2019 APCDA conference in Viet Nam. _
+
+_This post originally appeared on [Career Panorama](https://www.cdaa.org.au/blog/experiences-and-learnings-from-the-2019-apcda-annual-conference), the blog of the Career Development Association of Australia, who generously supported my travel to the 2019 APCDA conference in Viet Nam._
 
 In May 2019, I attended the Asia Pacific Career Development Association conference held at RMIT University in Ho Chi Minh City. 
 I am grateful for the generosity of the CDAA who supported my attendance in the form of an international travel grant. 
@@ -44,7 +45,7 @@ I soon realised the deeply transformational learning that can happen in career e
 
 Aside from my personal connection to Viet Nam in general and RMIT VN in particular, my attendance at APCDA 2019 was a highlight of my career to date, for several key reasons.
 
-{{< figure src="ceric_sign.jpg" title="Signing Career Theories and Models at Work" lightbox="true" >}}
+{{< figure src="ceric_sign.jpg" title="Signing Career Theories and Models at Work. Photo used with permission, courtesy of RMIT Mass Media Club SGS" lightbox="true" >}}
 
 I can’t go without mentioning the book signing for [Career Theories and Models at Work: Ideas for Practice](https://ceric.ca/publications/career-theories-and-models-at-work-ideas-for-practice/), a novel new experience for me. 
 This is a fantastic new book that makes a diverse range of theories accessible for careers practitioners. 
