@@ -1,7 +1,7 @@
 ---
 title: "Career services in Australian higher education: Aligning the training of practitioners to contemporary practice"
 date: 2019-06-24
-publishDate: 2020-02-17
+publishDate: 2020-02-17T00:32:00.999999
 authors: ["Jason L. Brown", "Michael Healy", "Tessa McCredie", "Peter McIlveen"]
 publication_types: ["2"]
 summary: "We evaluate how well career development qualifications align with the work of contemporary university practitioners."

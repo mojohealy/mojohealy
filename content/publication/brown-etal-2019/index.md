@@ -1,7 +1,7 @@
 ---
 title: "Connectedness learning in the life sciences: LinkedIn as an assessment task for employability and career exploration"
 date: 2019-06-28
-publishDate: 2020-02-17
+publishDate: 2020-02-17T00:32:00.999999
 authors: ["Jason L. Brown", "Michael Healy", "Louise Lexis", "Brianna Julien"]
 publication_types: ["6"]
 summary: "Reporting the results of a LinkedIn based assessment task in the curriculum of a health sciences degree". 
