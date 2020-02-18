@@ -3,7 +3,7 @@
 
 title: "A reflection on the Asia-Pacific Career Development Association conference 2019, Ho Chi Minh City, Vietnam"
 subtitle: ""
-summary: "In 2019 the CDAA supported me to attend the APCDA conference in Viet Nam. "
+summary: "In 2019 the CDAA supported me to attend the APCDA conference in Viet Nam."
 authors: []
 tags: ["career development practice"]
 categories: []
