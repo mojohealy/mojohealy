@@ -36,7 +36,7 @@ subtitle = "Pre-print pdfs available on request"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -47,9 +47,9 @@ subtitle = "Pre-print pdfs available on request"
   # Background color.
   # color = "navy"
   
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+ Background gradient.
+  gradient_start = "DeepSkyBlue"
+  gradient_end = "SkyBlue"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
