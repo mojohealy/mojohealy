@@ -1,7 +1,7 @@
 ---
 title: "Use of my career chapter to engage students in reflexive dialogue"
-date: 2018-01-01T00:00:00+00:00
-publishDate: 2020-02-17T00:00:00+00:00
+date: 2018-01-01
+publishDate: 2020-02-17
 authors: ["Michael Healy", "Peter McIlveen", "Sara Hammer"]
 publication_types: ["6"]
 summary: "Describing “My Career Chapter: A Dialogical Autobiography” as an exemplar of career writing."

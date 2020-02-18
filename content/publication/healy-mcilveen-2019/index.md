@@ -1,7 +1,7 @@
 ---
 title: "My career chapter: The dialogical self as author and editor of a career autobiography"
-date: 2019-01-01T00:00:00+00:00
-publishDate: 2020-02-17T00:00:00+00:00
+date: 2019-01-01
+publishDate: 2020-02-17
 authors: ["Michael Healy", "Peter McIlveen"]
 publication_types: ["6"]
 summary: "This chapter describes the theoretical foundations of MCC and its application in a case vignette".
