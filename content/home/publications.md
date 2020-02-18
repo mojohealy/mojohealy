@@ -47,7 +47,7 @@ subtitle = "Pre-print pdfs available on request"
   # Background color.
   # color = "navy"
   
- Background gradient.
+ # Background gradient.
   gradient_start = "DeepSkyBlue"
   gradient_end = "SkyBlue"
   
