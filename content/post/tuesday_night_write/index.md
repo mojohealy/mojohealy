@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Tuesday_night_write"
-subtitle: "Tuesday Night Write"
+title: "Tuesday Night Write"
+subtitle: ""
 summary: "How I got my writing moving with an online write-up"
 authors: []
 tags: ["acwri", "phd"]
 categories: []
-date: 2020-02-10T20:52:30+10:00
+date: 2020-03-09T20:52:30+10:00
 lastmod: 2020-03-08T10:52:30+10:00
 featured: false
 draft: false
