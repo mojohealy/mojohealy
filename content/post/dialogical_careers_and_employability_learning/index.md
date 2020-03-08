@@ -85,3 +85,8 @@ In addition, the principles that underpin DCEL can inform efforts to distribute 
 
 Helping students discover and achieve their career goals is an extremely satisfying profession, though not without its challenges. 
 I'm looking forward to researching how I, as a careers and employability educator, can best serve my students, and sharing what I find with my professional communities.
+
+<div id="commento"></div>
+<script defer
+  src="https://cdn.commento.io/js/commento.js">
+</script>

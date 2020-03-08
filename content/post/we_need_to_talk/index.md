@@ -87,3 +87,8 @@ Meanwhile, the Counsellor is an important promoter position who helps the Family
 # Dialogical careers and employability learning
 Over the next few years, I look forward to completing my PhD by researching how dialogical approaches to careers and employability learning, like the one I shared above, can be used to support people as they navigate the twists and turns of the 21st-century career. 
 I’m confident that these methods and theories can go a long way to helping our clients understand themselves and the world they live in, and take positive steps forward to finding meaningful work and satisfying lives.
+
+<div id="commento"></div>
+<script defer
+  src="https://cdn.commento.io/js/commento.js">
+</script>
