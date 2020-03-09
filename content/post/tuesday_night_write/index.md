@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Tuesday Night Write"
+title: "Tuesday night write"
 subtitle: ""
-summary: "How I got my writing moving with an online write-up"
+summary: "How I got my writing moving with an online write-up."
 authors: []
 tags: ["acwri", "phd"]
 categories: []
@@ -62,7 +62,7 @@ I have one pal who regularly joins me, sometimes one or two others show up, and 
 The social element of Tuesday Night Write is very important.
 Knowing that I'll start by stating what I am working on forces me to commit to a concrete writing goal. 
 Knowing that I'll be checking in once or twice forces me to actually work on that goal, lest I have to confess that I spent the last half hour on Twitter. 
-Also, conversation with colleagues in the session has been enlightening and motivating
+Also, conversation with colleagues in the session has been enlightening and motivating. 
 Only after enjoying this regular non-supervisory intellectual outlet for a few weeks, have I realised what a gap it's been in my academic life.
 
 Equally important is the calendar entry, marking a time when I will sit down, shut up, and write. 
