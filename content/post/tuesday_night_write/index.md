@@ -7,7 +7,7 @@ summary: "How I got my writing moving with an online write-up"
 authors: []
 tags: ["acwri", "phd"]
 categories: []
-date: 2020-03-09T20:52:30+10:00
+date: 2020-03-08T20:52:30+10:00
 lastmod: 2020-03-08T10:52:30+10:00
 featured: false
 draft: false
