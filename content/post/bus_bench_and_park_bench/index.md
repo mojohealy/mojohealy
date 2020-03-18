@@ -80,8 +80,6 @@ Look after yourself and those around you. Let your colleagues and students know 
 [Coronavirus COVID-19: How to look after your mental health when working from home (ABC)](https://www.abc.net.au/life/coronavirus-covid-19-mental-health-working-from-home-advice/12062284)
 [Coronavirus: psychologists offer advice for maintaining positive mental health (Australian Psychological Society)](https://www.psychology.org.au/About-Us/news-and-media/Media-releases/2020/Coronavirus-psychologists-offer-advice-for-mainta)
 
-
-
 <div id="commento"></div>
 <script defer
   src="https://cdn.commento.io/js/commento.js">
