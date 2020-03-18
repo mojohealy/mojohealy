@@ -33,10 +33,10 @@ _I’ve been intending to write this article for some time, long before COVID19 
 I’m now on my second day of work from home and trying to settle into a new kind of normal, one that seems like it’s going to be with us for some time. This describes one mental model which I’m finding useful right now._
 
 Dan John is a [strength and conditioning fitness coach](https://www.danjohnuniversity.com/) that I have learned a lot from as I have worked to fix old injuries, combat middle age spread, and generally take better care of this body of mine. 
-Although he works with the elite – pro American footballers and special forces soldiers –  he also offers [refreshingly reasonable advice](http://danjohn.net/2011/06/even-easier-strength-perform-better-notes/) on how to build and maintain strength and physical fitness for [average folk](http://danjohn.net/2012/05/training-for-middle-age-and-beyond/).  
+Although he works with the elite – pro American footballers and special forces soldiers –  he also offers [refreshingly reasonable advice](http://danjohn.net/2011/06/even-easier-strength-perform-better-notes/) on how to build and maintain strength and physical fitness for [average folk](http://danjohn.net/2012/05/training-for-middle-age-and-beyond/).
 One of Dan John’s concepts has been particularly useful for me, not only in my fitness but also in helping me find balance and maintain perspective as I [juggle work, study, and family](https://mojohealy.com/post/me_myself_and_i/). 
 
-Dan John says that there’s two kinds of fitness regime: [the bus bench and the park bench](https://www.menshealth.com/fitness/a19533819/bus-bench-program/). 
+Dan John says that there’s two kinds of fitness regime: [the bus bench and the park bench](https://www.menshealth.com/fitness/a19533819/bus-bench-program/).
 On the bus bench, you have clear expectations of what success looks like. 
 Your aim is to be at the same bus stop at the same time, every day.
 If you miss the bus, your day is ruined. 
