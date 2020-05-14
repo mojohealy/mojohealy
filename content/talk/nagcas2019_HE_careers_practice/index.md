@@ -3,7 +3,7 @@
 
 title: "Career services in Australian higher education: Aligning the training of practitioners to contemporary practice"
 event: "National Association of Careers Advisory Services conference, 2019"
-event_url: "[https://www.nagcas.org.au/documents/item/240](<https://www.nagcas.org.au/documents/item/240>)"
+event_url: "https://www.nagcas.org.au/documents/item/240"
 location: "Curtin University, Perth, WA"
 address:
   street:
