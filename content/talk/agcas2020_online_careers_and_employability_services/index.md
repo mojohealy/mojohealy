@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: "Presentation about online careers service delivery for the UK Association of Careers Advisory Services"
+summary: "Presentation for the UK Association of Careers Advisory Services, about online delivery of careers and employability services."
 abstract: "The University of Southern Queensland (USQ) has long been a leader in online delivery of career services.  In order to best serve its geographically and demographically diverse student body, the careers and employability team at USQ has experimented with numerous programs and services, including online career counselling, careers fairs, industry mentoring, and simulated graduate recruitment programs. In this presentation, I will describe several of USQ’s key online programs and services, provide a frank reflection on their successes and failures, and share some practical advice on how to plan for and deliver online careers and employability learning."
 
 # Talk start and end times.
