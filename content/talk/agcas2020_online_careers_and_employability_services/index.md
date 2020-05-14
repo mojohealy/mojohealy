@@ -3,7 +3,7 @@
 
 title: "Online careers and employability services: Reflections from an Australian regional university"
 event: "UK Association of Careers Advisory Services webinar series, 2020"
-event_url: "[https://www.agcas.org.uk/Training-and-conferences/online-careers-and-employability-services-webinar-series-session-one-reflections-from-a-regional-australian-university/10020?OccId=14316](https://www.agcas.org.uk/Training-and-conferences/online-careers-and-employability-services-webinar-series-session-one-reflections-from-a-regional-australian-university/10020?OccId=14316)"
+event_url: "https://www.agcas.org.uk/Training-and-conferences/online-careers-and-employability-services-webinar-series-session-one-reflections-from-a-regional-australian-university/10020?OccId=14316"
 location: "Online"
 address:
   street:
