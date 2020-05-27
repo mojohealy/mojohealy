@@ -7,8 +7,8 @@ summary: "A few things that I have learned from my experience  planning online c
 authors: 
 tags: ["CEL", "career development practice"]
 categories: []
-date: 2020-05-27T15:22:01+10:00
-lastmod: 2020-05-27T15:22:01+10:00
+date: 2020-05-27T01:01:01+10:00
+lastmod: 2020-05-27T01:01:01+10:00
 featured: false
 draft: false
 
