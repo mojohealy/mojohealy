@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Careers and Employability in Higher Education: Two sides of the same coin?"
+title: "Careers and employability in higher education: Two sides of the same coin?"
 event: "Career Development Association of New Zealand online PD series"
 event_url: "[http://www.cdanz.org.nz/professional-learning/webinars/past-webinars/](http://www.cdanz.org.nz/professional-learning/webinars/past-webinars/)"
 location: "Online"
