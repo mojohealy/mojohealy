@@ -34,7 +34,12 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "PhD candidate, careers and employability"
   institution = "University of Southern Queensland"
-
+  
+[[education.courses]]
+  course = "Grad. Cert. Career Development and Education"
+  institution = "Royal Melbourne Institute of Technology"
+  year = 2015
+  
 [[education.courses]]
   course = "B.A. Hons, History"
   institution = "University of Waikato"
