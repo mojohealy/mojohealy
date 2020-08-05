@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-_This article was originally published on [LinkedIn](https://www.linkedin.com/pulse/why-careers-employability-learning-matters-higher-education-healy/). It is a summury of some of the key research that supports the important role that careers and employability learn plays in higher education._ 
+_This article was originally published on [LinkedIn](https://www.linkedin.com/pulse/why-careers-employability-learning-matters-higher-education-healy/). It is a summary of some of the key research that supports the important role that careers and employability learn plays in higher education._ 
 
 About three years ago I wrote an article summarising my research into the [evidence base of and best practices in careers and employability learning](https://www.linkedin.com/pulse/what-best-practice-careers-education-outline-evidence-michael-healy/). 
 I was pleased to see the warm response it got from my peers. 
