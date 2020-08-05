@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "# Why careers and employability learning matters in higher education"
+title: "Why careers and employability learning matters in higher education"
 subtitle: "A summary of the evidence supporting quality careers and employability learning"
 summary: "A summary of the research evidence supporting quality careers and employability learning"
 authors: []
