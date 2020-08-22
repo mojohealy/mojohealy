@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "# Why don't graduate employability and career development research talk to each other?"
+title: "Why don't graduate employability and career development research talk to each other?"
 subtitle: ""
 summary: "A summary of my recent publication: _Mapping graduate employability and career development in higher education research._"
 authors: []
