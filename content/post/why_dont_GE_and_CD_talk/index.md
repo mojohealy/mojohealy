@@ -7,8 +7,8 @@ summary: "A summary of my recent publication: _Mapping graduate employability an
 authors: []
 tags: ["cel"]
 categories: []
-date: 2020-08-22T20:00:00+00:00
-lastmod: 2020-08-22T22:00:00+00:00
+date: 2020-08-22T18:00:00+00:00
+lastmod: 2020-08-22T18:00:00+00:00
 featured: false
 draft: false
 
