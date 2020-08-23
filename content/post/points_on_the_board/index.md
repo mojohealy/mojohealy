@@ -18,7 +18,7 @@ draft: false
 image:
   caption: "My PhD by publication pipeline"
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
