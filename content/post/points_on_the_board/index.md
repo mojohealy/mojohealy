@@ -63,7 +63,7 @@ One of the most useful aspacts of this scoreboard has been helping me get unstuc
 I find it relatively easy to reorient myself and get started again by asking myself “where can I most easily get my next point from?”
 This might require me to switch projects, which doesn’t matter much as long as the overall goal – earning my PhD – comes a step or two closer. 
 
-If you’d like to create a similar scoreboard, feel free to use my {{% staticref "files/pipeline.xlsx"  "newtab" %}}PhD publication pipeline template{{% /staticref %}}. 
+If you’d like to create a similar scoreboard, feel free to use my {{% staticref "files/pipeline.xlsx" %}}PhD publication pipeline template{{% /staticref %}}. 
 It’s designed to be printed at A3 size, ready for you to laminate it, put it up on your office wall, and start getting some points on the board. 
 
 
