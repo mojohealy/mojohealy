@@ -29,17 +29,18 @@ projects: []
 ---
 There’s a reason why project management is one of the most commonly cited transferable skills from doctoral studies. 
 Keeping track of the various discrete tasks – reading, writing, applications, data collection and analysis, submissions, presentations – would challenge even the most organised candidate. 
+A PhD by publication, in which you work toward a portfolio of published journal articles, [has some unique challenges](https://www.youtube.com/watch?v=LFKY7hyyXjY&list=PLpBrZuKCHAuP6Mnt3tnAK31LkjF5NX_v2) when it comes to planning and organising work. 
 
 For the last few months I’ve kept track of my work (and at times, my lack of work), using a simple scoreboard pinned on the wall of my home office. 
-It was inspired by this article by political scientist Matthew J. Lebo: [_Managing Your Research Pipeline_](http://dx.doi.org/10.1017%2FS1049096516000160), which I discovered via the inimitable academic productivitist  [Raul Pacheco-Vega](https://twitter.com/raulpacheco). 
+It was inspired by an article by political scientist Matthew J. Lebo, [_Managing Your Research Pipeline_](http://dx.doi.org/10.1017%2FS1049096516000160), which I discovered via the inimitable academic productivitist  [Raul Pacheco-Vega](https://twitter.com/raulpacheco). 
 Lebo was writing for academics working toward tenure, but his system was easily adaptable to my PhD by publication, contingent as it is on the publication of several articles. 
 
 {{< figure src="featured.jpg" title="My PhD by publication pipeline" >}}
 
-Quite simply, down the left I’ve listed the component articles of my PhD by publication (along with a couple of additional ones), with their target journals and (very loose) estimated times of submission. 
+Quite simply, down the left I’ve listed the component articles of my PhD by publication (along with a couple of additional ones), with my first choice of target journals and ( loosely) estimated times of submission. 
 Across the top, I’ve identified 12 milestones in the article writing and publishing process. 
 These stages may not make sense to everyone, but they fit my approach to research and writing well. 
-On the right, I keep a count of how many stages remain for each article, and when I complete a stage, I get the pleasure of writing a big X on the scorecard and reducing the total accordingly. 
+On the right, I keep a count of how many stages remain for each article, and when I complete a stage, I get the pleasure of writing a big X on the scorecard and reducing the totals accordingly. 
 The conditions of completion for each of these stages are loosely defined; they are done when I am satisfied they are mostly done.
 
 The stages I have used are: 

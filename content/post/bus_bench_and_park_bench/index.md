@@ -58,7 +58,7 @@ Keeping a journal, writing reading notes, jotting random ideas down, putting dow
 Playing with a new tool or experimenting with a new method. 
 Casual chats with friends and colleagues, or sitting in the campus coffee shop and seeing who happens by. 
 
-Without being to romantic about it, the park bench is where I have made connections that I didn’t notice when I was full of anxious energy at the bus stop. 
+Without being too romantic about it, the park bench is where I have made connections that I didn’t notice when I was full of anxious energy at the bus stop. 
 Where I have more time to pursue an avenue of thought that I know has promise but isn’t immediately important (though sometimes it actually is).
 Where I am, put simply, more relaxed and more receptive to deep thought. 
 
