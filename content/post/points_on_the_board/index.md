@@ -7,8 +7,8 @@ summary: "A gamified approach to to maintaining motivation and keeping track of 
 authors: []
 tags: ["phd"]
 categories: []
-date: 2020-08-23T10:00:00+00:00
-lastmod: 2020-08-23T10:00:00+00:00
+date: 2020-08-23T15:21:10+10:00
+lastmod: 2020-08-23T15:21:10+10:00
 featured: false
 draft: false
 
