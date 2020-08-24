@@ -37,7 +37,7 @@ Lebo was writing for academics working toward tenure, but his system was easily 
 
 {{< figure src="featured.jpg" title="My PhD by publication pipeline" >}}
 
-Quite simply, down the left I’ve listed the component articles of my PhD by publication (along with a couple of additional ones), with my first choice of target journals and ( loosely) estimated times of submission. 
+Quite simply, down the left I’ve listed the component articles of my [PhD by publication](https://mojohealy.com/#publications) (along with a couple of additional ones), with my first choice of target journals and ( loosely) estimated times of submission. 
 Across the top, I’ve identified 12 milestones in the article writing and publishing process. 
 These stages may not make sense to everyone, but they fit my approach to research and writing well. 
 On the right, I keep a count of how many stages remain for each article, and when I complete a stage, I get the pleasure of writing a big X on the scorecard and reducing the totals accordingly. 
@@ -55,7 +55,7 @@ The stages I have used are:
 * _Discussion_: I have drafted the discussion and conclusion of the article, including limitations, application to practice, and future research, as necessary. 
 * _Submit_: I have finalised the article draft, formatted the manuscript according to my target journal’s requirements, and submitted it. 
 * _Revise_: If invited to revise and resubmit, I have done all necessary revisions, written my response letter, and resubmitted the manuscript. If the article is rejected, I go back to the submit stage and prepare the manuscript for the next target journal. 
-* _Published_: The article has been accepted, I have completed all necessary paperwork, and reviewed the author proofs. Job done!
+* _Published_: The article has been accepted, I have completed all necessary paperwork, and reviewed the author proofs. [Job done](https://www.linkedin.com/pulse/why-dont-graduate-employability-career-development-talk-michael-healy/)!
 
 As you can see, I track my total score and mean score, for both my PhD articles and all articles. 
 The mean has been particularly useful, because it helps me be very mindful about committing to new writing projects, which require me to add 12 points to my total and inflate my mean score. 
