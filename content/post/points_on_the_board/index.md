@@ -49,7 +49,7 @@ The stages I have used are:
 * _Collect data_: I have collected my data, cleaned and organised it, and stored it appropriately. 
 * _Analyse data_: I have completed my analysis of the data, exported figures and tables, and written notes to highlight the most important findings. 
 * _Outline_: I have sketched out a [fat outline](https://withoutbullshit.com/blog/fat-outline) of my article, based on an analysis of some exemplars from my target journal, with a target word count and selection of key citations for each section. 
-* _Intro_: I have drafted the introduction, literature review, and thesis statement of the article. 
+* _Intro_: I have drafted the introduction, literature review, thesis statement and research questions of the article. 
 * _Methods_: I have drafted the methods section of the article. 
 * _Results_: I have drafted the results section and formatted any tables and figures. 
 * _Discussion_: I have drafted the discussion and conclusion of the article, including limitations, application to practice, and future research, as necessary. 
@@ -57,10 +57,10 @@ The stages I have used are:
 * _Revise_: If invited to revise and resubmit, I have done all necessary revisions, written my response letter, and resubmitted the manuscript. If the article is rejected, I go back to the submit stage and prepare the manuscript for the next target journal. 
 * _Published_: The article has been accepted, I have completed all necessary paperwork, and reviewed the author proofs. [Job done](https://www.linkedin.com/pulse/why-dont-graduate-employability-career-development-talk-michael-healy/)!
 
-As you can see, I track my total score and mean score, for both my PhD articles and all articles. 
+As you can see, I track my total score and mean score, for both just my PhD articles and for all articles. 
 The mean has been particularly useful, because it helps me be very mindful about committing to new writing projects, which require me to add 12 points to my total and inflate my mean score. 
 
-One of the most useful aspacts of this scoreboard has been helping me get unstuck when my motivation dips or my progress stalls. 
+One of the most useful aspects of this scoreboard has been helping me get unstuck when my motivation dips or my progress stalls. 
 I find it relatively easy to reorient myself and get started again by asking myself “where can I most easily get my next point from?”
 This might require me to switch projects, which doesn’t matter much as long as the overall goal – earning my PhD – comes a step or two closer. 
 
