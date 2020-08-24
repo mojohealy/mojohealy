@@ -44,7 +44,7 @@ On the right, I keep a count of how many stages remain for each article, and whe
 The conditions of completion for each of these stages are loosely defined; they are done when I am satisfied they are mostly done.
 
 The stages I have used are: 
-* _Tiny text_: I have drafted an abstract, following the tiny text approach described by [Pat Thomson](https://patthomson.net/) and Barbara Kamler in their book _[Writing for Peer Reviewed Journals](https://books.google.com.au/books/about/Writing_for_Peer_Reviewed_Journals.html?id=xZn-ZPdug8EC&redir_esc=y_). For me, I have not really started a writing project until this is done. 
+* _Tiny text_: I have drafted an abstract, following the tiny text approach described by [Pat Thomson](https://patthomson.net/) and Barbara Kamler in their book _[Writing for Peer Reviewed Journals](https://books.google.com.au/books/about/Writing_for_Peer_Reviewed_Journals.html?id=xZn-ZPdug8EC&redir_esc=y_)_. For me, I have not really started a writing project until this is done. 
 * _Ethics_: I have received ethics approval for my project. Of course, not all projects need this, in which case I enjoy a free bonus point. 
 * _Collect data_: I have collected my data, cleaned and organised it, and stored it appropriately. 
 * _Analyse data_: I have completed my analysis of the data, exported figures and tables, and written notes to highlight the most important findings. 
