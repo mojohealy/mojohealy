@@ -33,7 +33,7 @@ A PhD by publication, in which you work toward a portfolio of published journal 
 
 For the last few months I’ve kept track of my work (and at times, my lack of work), using a simple scoreboard pinned on the wall of my home office. 
 It was inspired by an article by political scientist Matthew J. Lebo, [_Managing Your Research Pipeline_](http://dx.doi.org/10.1017%2FS1049096516000160), which I discovered via the inimitable academic productivitist  [Raul Pacheco-Vega](https://twitter.com/raulpacheco). 
-Lebo was writing for academics working toward tenure, but his system was easily adaptable to my PhD by publication, contingent as it is on the publication of several articles. 
+Lebo was writing for academics working toward tenure, but his system was easily adapted to my PhD by publication, contingent as both goals are on the publication of several articles. 
 
 {{< figure src="featured.jpg" title="My PhD by publication pipeline" >}}
 
@@ -44,11 +44,11 @@ On the right, I keep a count of how many stages remain for each article, and whe
 The conditions of completion for each of these stages are loosely defined; they are done when I am satisfied they are mostly done.
 
 The stages I have used are: 
-* _Tiny text_: I have drafted an abstract, following the tiny text approach described by [Pat Thomson](https://patthomson.net/) and Barbara Kamler in their book _[Writing for Peer Reviewed Journal](https://books.google.com.au/books/about/Writing_for_Peer_Reviewed_Journals.html?id=xZn-ZPdug8EC&redir_esc=y)s_. For me, I have not really started a writing project until this is done. 
+* _Tiny text_: I have drafted an abstract, following the tiny text approach described by [Pat Thomson](https://patthomson.net/) and Barbara Kamler in their book _[Writing for Peer Reviewed Journals](https://books.google.com.au/books/about/Writing_for_Peer_Reviewed_Journals.html?id=xZn-ZPdug8EC&redir_esc=y_. For me, I have not really started a writing project until this is done. 
 * _Ethics_: I have received ethics approval for my project. Of course, not all projects need this, in which case I enjoy a free bonus point. 
-* _Collect data_: I have collected my data, cleaned it and organised, and stored it appropriately. 
+* _Collect data_: I have collected my data, cleaned and organised it, and stored it appropriately. 
 * _Analyse data_: I have completed my analysis of the data, exported figures and tables, and written notes to highlight the most important findings. 
-* _Outline_: I have sketched out a [fat outline](https://withoutbullshit.com/blog/fat-outline) of my article, based on an analysis of some exemplars from my target journal and with a target word count for each section. 
+* _Outline_: I have sketched out a [fat outline](https://withoutbullshit.com/blog/fat-outline) of my article, based on an analysis of some exemplars from my target journal, with a target word count and selection of key citations for each section. 
 * _Intro_: I have drafted the introduction, literature review, and thesis statement of the article. 
 * _Methods_: I have drafted the methods section of the article. 
 * _Results_: I have drafted the results section and formatted any tables and figures. 
