@@ -7,8 +7,8 @@ summary: "A presentation on my recently published article publication: _Mapping 
 authors: []
 tags: ["cel"]
 categories: []
-date: 2020-09-29T15:21:10+10:00
-lastmod: 2020-09-29T15:21:10+10:00
+date: 2020-09-28T15:21:10+10:00
+lastmod: 2020-09-28T15:21:10+10:00
 featured: false
 draft: false
 
