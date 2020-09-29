@@ -32,7 +32,7 @@ Keeping track of the various discrete tasks – reading, writing, applications, 
 A PhD by publication, in which you work toward a portfolio of published journal articles, [has some unique challenges](https://www.youtube.com/watch?v=LFKY7hyyXjY&list=PLpBrZuKCHAuP6Mnt3tnAK31LkjF5NX_v2) when it comes to planning and organising work. 
 
 For the last few months I’ve kept track of my work (and at times, my lack of work), using a simple scoreboard pinned on the wall of my home office. 
-It was inspired by an article by political scientist Matthew J. Lebo, [_Managing Your Research Pipeline_](http://dx.doi.org/10.1017%2FS1049096516000160), which I discovered via the inimitable academic productivitist  [Raul Pacheco-Vega](https://twitter.com/raulpacheco). 
+It was inspired by an article by political scientist Matthew J. Lebo, [_Managing Your Research Pipeline_](https://politics.virginia.edu/wp-content/uploads/2016/08/lebo_researchPipeline.pdf), which I discovered via the inimitable academic productivitist  [Raul Pacheco-Vega](https://twitter.com/raulpacheco). 
 Lebo was writing for academics working toward tenure, but his system was easily adapted to my PhD by publication, contingent as both goals are on the publication of several articles. 
 
 {{< figure src="featured.jpg" title="My PhD by publication pipeline" >}}
