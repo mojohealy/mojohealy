@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-_[Register at this link](https://usq.zoom.us/meeting/register/tZErdu2tqjwjHNMIzCb9BmFWUxLIGyOnDZnq) to attend my webinar “Mapping graduate employability and career development in higher education research”, on Thursday October 28, 2020 at 07:00 PM Australian Eastern Standard Time._
+_[Register at this link](https://usq.zoom.us/meeting/register/tZErdu2tqjwjHNMIzCb9BmFWUxLIGyOnDZnq) to attend my webinar “Mapping graduate employability and career development in higher education research”, on Wednesday October 28, 2020 at 07:00 PM Australian Eastern Standard Time._
 
 One way that COVID-19 has affected academic life is the massive disruption to conferences and other forms of in person scholarly communication. Personally, I’ve had four conferences that I planned on attending cancelled. This sudden change to academic communication and networking is even the focus of a [number of higher education researchers](https://www.eventbrite.com.au/e/missing-conferences-academic-gatherings-in-a-time-of-limited-mobility-tickets-116679994003). 
 
@@ -37,7 +37,7 @@ All this has made me think: “if we want to share our work, why do we need to w
 So, I’ve decided to independently offer a webinar in which I share my recently published article: [“Mapping graduate employability and career development in higher education research: A citation network analysis”](https://srhe.tandfonline.com/doi/abs/10.1080/03075079.2020.1804851). I will share the main findings, of course, but also talk a little about how and why we wrote it and how I hope it can inform quality careers and employability learning. In addition, I’ll include some opportunities for participants to join breakout rooms so that they can meet and share their thoughts with other participants. 
 
 [Register at this link](https://usq.zoom.us/meeting/register/tZErdu2tqjwjHNMIzCb9BmFWUxLIGyOnDZnq) to attend the webinar. 
-Thursday October 28, 2020 
+Wednesday October 28, 2020 
 7:00 PM, Australian Eastern Standard Time
 
 
