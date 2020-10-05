@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-_This article was originally published on [LinkedIn](https://www.linkedin.com/pulse/why-dont-graduate-employability-career-development-talk-michael-healy/)_
+_[Register at this link](https://usq.zoom.us/meeting/register/tZErdu2tqjwjHNMIzCb9BmFWUxLIGyOnDZnq) to attend my webinar “Mapping graduate employability and career development in higher education research”, on Wednesday October 28, 2020 at 07:00 PM Australian Eastern Standard Time._
 
 On behalf of my co-authors [Sara Hammer](https://scholar.google.com/citations?hl=en&user=ztaJR6gAAAAJ) and [Peter McIlveen](https://scholar.google.com/citations?hl=en&user=REysk9oAAAAJ), I’m pleased to share our article [“Mapping graduate employability and career development in higher education research: A citation network analysis”](https://srhe.tandfonline.com/doi/abs/10.1080/03075079.2020.1804851), published this week in Studies in Higher Education. This is a major milestone for me, as it’s my first journal article as first author and the first publication of my PhD by publication portfolio. 
 
