@@ -8,6 +8,7 @@ abstract: "Career assessment is inherent in the professional practices of career
 featured: false
 publication: "*The Oxford Handbook of Career Development*"
 url_website: "https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190069704.001.0001/oxfordhb-9780190069704-e-23"
+doi: "10.1093/oxfordhb/9780190069704.013.23"
 url_preprint:
 
 ---
