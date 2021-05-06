@@ -15,8 +15,8 @@ summary: "A presentation in the Centre of Global Higher Education's seminar seri
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-05-04T00:00:00+00:00
-date_end: 2020-05-04T19:42:51+10:00
+date: 2021-05-04T00:00:00+00:00
+date_end: 2021-05-04T19:42:51+10:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
