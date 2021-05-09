@@ -33,7 +33,7 @@ In a PhD by publication, co-authoring is also subject to the institutional rules
 At my university [the policy](https://policy.usq.edu.au/documents/151774PL#3.6) is clear: "a student would be expected to make 50% or greater contribution to each paper".
 
 The policy refers to the need for a statement affirming the student's leading role in authorship, and indeed the graduate research school provides a template for a record of authorship.
-I googled for examples of what this might look like, but wasn't totally satisfied with any that I found, so I made one myself.
+I googled for other examples of what an authorship agreement might look like, but wasn't totally satisfied with any that I found, so I made one for myself.
 You can download it and edit it to suit your own needs: {{% staticref "files/phd_by_publication_authorship_agreement.docx" %}}Phd by publication authorship agreement{{% /staticref %}}.
 You can also have a look at the actual authorship agreement that I completed for [the article I wrote](https://mojohealy.com/publication/healy-etal-2020/) with my supervisors: {{% staticref "files/healy_etal_2020_authorship.docx" %}}Healy et al., 2020, authorship agreement{{% /staticref %}}.
 
