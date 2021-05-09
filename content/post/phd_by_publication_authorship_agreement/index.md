@@ -1,5 +1,5 @@
 ---
-title: "Authorship agreements for Phd by publication co-authored articles"
+title: "Authorship agreements for co-authored articles in a PhD by publication"
 subtitle: ""
 summary: "In this article I share a co-authoring agreement that I have used to negotiate and keep records of my co-authored articles for my PhD by publication."
 authors: []
