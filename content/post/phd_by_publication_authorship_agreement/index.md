@@ -45,7 +45,7 @@ It's important to communicate expectations early in co-authored projects, and th
 
 The fourth section, the record of author contribution, serves two purposes.
 When I initiate a project, it allows me to be very clear to my co-authors about what I am asking them to do.
-I have been by collaborators that they have appreciated this, as it allows them to better assess their prospective workload and decide if they want to take the project on.
+I have been told by collaborators that they have appreciated this, as it allows them to better assess their prospective workload and decide if they want to take the project on.
 Then, as the project progresses I can update the actual contributions of each author.
 Of course, it's impossible to enumerate the exact percentages of each author's contributions in this section, so the numbers are broad estimates rather than precise records.
 The final section is for signatures of all authors, attesting that it is an accurate reflection of their relative contributions, and in the case of the PhD by publication, that the student lead author is playing by the rules.
