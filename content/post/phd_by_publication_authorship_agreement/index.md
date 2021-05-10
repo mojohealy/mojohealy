@@ -52,7 +52,7 @@ The final section is for signatures of all authors, attesting that it is an accu
 
 I can think of two improvements that I might make to this agreement, particularly if I go on to pursue projects with people that I don't know as well as my current collaborators.
 The first is an indication of [what *kind* of co-writing strategy I am proposing](https://patthomson.net/2016/12/15/co-writing-strategies-or-what-could-possibly-go-wrong/), to ensure that our respective writing practices are compatible.
-The second would be the inclusion of a termination clause, specifying what happens if one of the authors doesn't meet their obligations.
+The second would be the inclusion of a termination clause, specifying what happens if one of the authors doesn't meet their obligations, alomng with being clear about what "not meeting obligations" actually means.
 For example, does their name slip down the list of authors, or is it removed entirely?
 
 I expect to co-author most of my academic writing, PhD and otherwise, which is the norm in my field.
