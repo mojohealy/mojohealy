@@ -56,10 +56,6 @@ user_groups = ["Researchers", "Visitors"]
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
-[[social]]
-  icon = "envelope"
-  icon_pack = "fas"
-  link = "mailto:mojohealy@gmail.com"
 
 [[social]]
   icon = "twitter"
@@ -67,24 +63,20 @@ user_groups = ["Researchers", "Visitors"]
   link = "https://twitter.com/mojohealy"
 
 [[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "scholar.google.com.au/citations?user=n1VR84gAAAAJ&hl=en"
-
-[[social]]
   icon = "linkedin"
   icon_pack = "fab"
   link = "https://linkedin.com/in/mojohealy"
 
 [[social]]
-  icon = "orcid"
+  icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://orcid.org/0000-0002-9572-2182"
+  link = "scholar.google.com.au/citations?user=n1VR84gAAAAJ&hl=en"
 
 [[social]]
-  icon = "researchgate"
-  icon_pack = "ai"
-  link = "https://www.researchgate.net/profile/Michael_Healy6"
+  icon = "envelope"
+  icon_pack = "fas"
+  link = "mailto:mojohealy@gmail.com"
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
