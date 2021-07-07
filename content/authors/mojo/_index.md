@@ -24,7 +24,8 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Careers and employability learning in higher education",
-  "Career development professional practice"]
+  "Career development professional practice",
+  "Narrative and dialogical career identity"]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -34,12 +35,17 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "PhD candidate, careers and employability"
   institution = "University of Southern Queensland"
-  
+
 [[education.courses]]
   course = "Grad. Cert. Career Development and Education"
   institution = "Royal Melbourne Institute of Technology"
   year = 2015
-  
+
+[[education.courses]]
+  course = "Grad. Cert. Education"
+  institution = "Massey University"
+  year = 2014
+
 [[education.courses]]
   course = "B.A. Hons, History"
   institution = "University of Waikato"
@@ -88,6 +94,6 @@ user_groups = ["Researchers", "Visitors"]
 #   link = "files/cv.pdf"
 +++
 
-I am a careers and employability educator and researcher at the University of Southern Queensland, Australia. I lead the development of a range of careers and employability services and programs and collaborate with academic staff to integrate careers and employability learning into the curriculum. 
+I am a careers and employability educator and researcher at the University of Southern Queensland, Australia. I lead the development of a range of careers and employability services and programs and collaborate with academic staff to integrate careers and employability learning into the curriculum.
 
 I am pursuing a PhD in careers and employability learning in higher education. In addition to evaluating a dialogical approach to careers and employability learning, my research will be a record of my reflective practice as I seek to innovate in my profession.
