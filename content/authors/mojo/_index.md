@@ -70,7 +70,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "scholar.google.com.au/citations?user=n1VR84gAAAAJ&hl=en"
+  link = "https://scholar.google.com.au/citations?user=n1VR84gAAAAJ&hl=en"
 
 [[social]]
   icon = "envelope"
