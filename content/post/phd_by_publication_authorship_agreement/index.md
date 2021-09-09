@@ -24,6 +24,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
 As much as a traditional PhD thesis might benefit from constructive feedback from supervisors and others, it is, or should be, a single-author text.
 But if you've chosen to pursue a [PhD by publication](https://thesisbypublication.com/), it's possible or likely, depending on the norms in your discipline, that some of the constituent articles will be [written in collaboration with others](https://thesisbypublication.com/co-author/), including your supervisors.
 This is one of the advantages of a PhD by publication, but undoubtedly introduces several challenges and risks.
@@ -51,8 +52,8 @@ Of course, it's impossible to enumerate the exact percentages of each author's c
 The final section is for signatures of all authors, attesting that it is an accurate reflection of their relative contributions, and in the case of the PhD by publication, that the student lead author is playing by the rules.
 
 I can think of two improvements that I might make to this agreement, particularly if I go on to pursue projects with people that I don't know as well as my current collaborators.
-The first is an indication of [what *kind* of co-writing strategy I am proposing](https://patthomson.net/2016/12/15/co-writing-strategies-or-what-could-possibly-go-wrong/), to ensure that our respective writing practices are compatible.
-The second would be the inclusion of a termination clause, specifying what happens if one of the authors doesn't meet their obligations, alomng with being clear about what "not meeting obligations" actually means.
+The first is an indication of [what _kind_ of co-writing strategy I am proposing](https://patthomson.net/2016/12/15/co-writing-strategies-or-what-could-possibly-go-wrong/), to ensure that our respective writing practices are compatible.
+The second would be the inclusion of a termination clause, specifying what happens if one of the authors doesn't meet their obligations, along with being clear about what "not meeting obligations" actually means.
 For example, does their name slip down the list of authors, or is it removed entirely?
 
 I expect to co-author most of my academic writing, PhD and otherwise, which is the norm in my field.
