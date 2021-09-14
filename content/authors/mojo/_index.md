@@ -23,7 +23,7 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Careers and employability learning in higher education",
+  "Careers and employability learning",
   "Career development professional practice",
   "Narrative and dialogical career identity"]
 
