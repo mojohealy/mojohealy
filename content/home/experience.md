@@ -18,12 +18,25 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Head of Career Development and Employability"
+  company = "Career Ahead"
+  company_url = "careerahead.com.au"
+  location = "Toowoomba, QLD"
+  date_start = "2021-09-06"
+  date_end = ""
+  description = """
+Leading the design and delivery of a Graduate Certificate and Diploma in Career Development.
+
+Contributing to the innovation agenda of Career Ahead and working to elevate and innovate the career development profession in Australia and beyond.
+   """
+   
+   [[experience]]
   title = "Employability Coordinator"
   company = "University of Southern Queensland"
   company_url = "usq.edu.au"
   location = "Toowoomba, QLD"
   date_start = "2018-03-01"
-  date_end = ""
+  date_end = "2021-09-01"
   description = """
   Leading a team of employer engagement specialists to deliver a range of  services and programs designed to enhance the employability, graduate outcomes, and entrepreneurial mindset of USQ students.
   
