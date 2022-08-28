@@ -40,6 +40,3 @@ As a result, employability strategies and interventions are often drafted withou
 Rather than continue to approach (and resource) employability and career development as different things, we should recognise their congruence and instead envision more integrative pedagogies of careers and employability learning for higher education to the benefit of all of our students.
 
 <div id="commento"></div>
-<script defer
-  src="https://cdn.commento.io/js/commento.js">
-</script>

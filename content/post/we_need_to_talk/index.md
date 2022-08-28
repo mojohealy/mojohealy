@@ -89,6 +89,3 @@ Over the next few years, I look forward to completing my PhD by researching how 
 I’m confident that these methods and theories can go a long way to helping our clients understand themselves and the world they live in, and take positive steps forward to finding meaningful work and satisfying lives.
 
 <div id="commento"></div>
-<script defer
-  src="https://cdn.commento.io/js/commento.js">
-</script>

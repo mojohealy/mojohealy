@@ -105,6 +105,3 @@ Whiston, Susan C., Yue Li, Nancy Goodrich Mitts, and Lauren Wright. 2017. Effect
 Whiston, Susan C., Thomas L. Sexton, and David L. Lasoff. 1998. Career-Intervention Outcome: A Replication and Extension of Oliver and Spokane (1988). _Journal of Counseling Psychology_ 45 (2): 150-65. https://doi.org/10.1037/0022-0167.45.2.150.
 
 <div id="commento"></div>
-<script defer
-  src="https://cdn.commento.io/js/commento.js">
-</script>

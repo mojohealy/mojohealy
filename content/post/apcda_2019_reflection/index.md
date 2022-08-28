@@ -72,8 +72,3 @@ Phoenix is doing this not simply by translating Western theories and tools into 
 
 In 2020 the APCDA conference will be in [New Dehli](https://apcda.wildapricot.org/2020-Conference), in 2021 it will be in [Singapore](https://apcda.wildapricot.org/2021-Conference), and in 2022, Azerbaijan. 
 I strongly encourage all Australian career development practitioners to plan to attend the conference and enjoy the kind of experience I had in Viet Nam.
-
-<div id="commento"></div>
-<script defer
-  src="https://cdn.commento.io/js/commento.js">
-</script>

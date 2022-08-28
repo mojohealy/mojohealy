@@ -61,6 +61,3 @@ So far, I have enjoyed co-writing and have not suffered any bad experiences.
 Although I created my {{% staticref "files/phd_by_publication_authorship_agreement.docx" %}}Phd by publication authorship agreement{{% /staticref %}} to serve my PhD by publication, I anticipate using it as standard practice for all future collaborative academic writing projects.
 
 <div id="commento"></div>
-<script defer
-  src="https://cdn.commento.io/js/commento.js">
-</script>

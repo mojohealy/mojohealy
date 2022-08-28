@@ -87,6 +87,4 @@ Helping students discover and achieve their career goals is an extremely satisfy
 I'm looking forward to researching how I, as a careers and employability educator, can best serve my students, and sharing what I find with my professional communities.
 
 <div id="commento"></div>
-<script defer
-  src="https://cdn.commento.io/js/commento.js">
-</script>
+

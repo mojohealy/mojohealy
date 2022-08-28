@@ -74,6 +74,4 @@ Sometimes enjoying the company of others, sometimes alone.
 Most importantly, I'll be meeting a commitment to myself and getting some words out of my brain and onto the page. 
 
 <div id="commento"></div>
-<script defer
-  src="https://cdn.commento.io/js/commento.js">
-</script>
+

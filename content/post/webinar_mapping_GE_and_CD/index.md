@@ -42,6 +42,3 @@ Wednesday October 28, 2020
 
 
 <div id="commento"></div>
-<script defer
-  src="https://cdn.commento.io/js/commento.js">
-</script>

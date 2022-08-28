@@ -90,8 +90,3 @@ Bridgstock, R. (2017). The university and the knowledge network: A new education
 Dey, F., & Cruzvergara, C. Y. (2014). Evolution of career services in higher education. _New Directions for Student Services_, 2014 (148), 5–18. doi:10.1002/ss.20105
 
 Draaisma, A., Meijers, F., & Kuijpers, M. (2017). The development of strong career learning environments: The project “career orientation and guidance” in Dutch vocational education. _Journal of Vocational Education & Training_, 1–20. doi:10.1080/13636820.2017.1392995
-
-<div id="commento"></div>
-<script defer
-  src="https://cdn.commento.io/js/commento.js">
-</script>

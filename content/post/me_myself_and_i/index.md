@@ -88,6 +88,3 @@ You can then give these helpful positions the authority to organise, challenge, 
 It is an ongoing challenge as the dialogue ebbs and flows, recedes and explodes, but the effort is worth it if it allows you to make some small steps toward recognising your strengths, mediating your anxieties, and living a healthier PhD life.
 
 <div id="commento"></div>
-<script defer
-  src="https://cdn.commento.io/js/commento.js">
-</script>

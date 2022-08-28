@@ -73,6 +73,4 @@ Employers are keen to go beyond the traditional activities of careers fairs and 
 
 
 <div id="commento"></div>
-<script defer
-  src="https://cdn.commento.io/js/commento.js">
-</script>
+

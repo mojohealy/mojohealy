@@ -110,6 +110,4 @@ Spurk, D., Kauffeld, S., Barthauer, L., & Heinemann, N. S. R. (2015). Fostering 
 Whiston, S. C., & James, B. N. (2013). Promotion of career choices. In S. D. Brown & R. W. Lent (Eds.), Career development and counseling: Putting theory and research to work (2nd ed., pp. 565–594). Wiley. 
 
 <div id="commento"></div>
-<script defer
-  src="https://cdn.commento.io/js/commento.js">
-</script>
+

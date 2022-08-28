@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "c2f036cc434c2aed",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4676fc6b23639fe",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "apcda_2019_reflection/index.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53fadbc2516b37cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0326b2ece1968e71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cd72f54cf02f437",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ea829bcec36d6be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea8a838bed46bbbd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e6823d3174a7b83c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc5e0b3c6bb4b0b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd6f5f2db9249429",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "apcda_2019_reflection/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62412f46e65b45e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "apcda_2019_reflection/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cfe56bd5051086b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "75a66bb6824c8a47",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "apcda_2019_reflection/index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f4676fc6b23639fe",
+  "lastOpenFiles": [
+    "best_practice_in_CEL/index.md",
+    "bus_bench_and_park_bench/index.md",
+    "careers_employability_learning/index.md",
+    "cghe_seminar_mapping_GE_and_CD/index.md",
+    "curricular_vision/index.md",
+    "dialogical_careers_and_employability_learning/index.md",
+    "five_considerations_online_career_services/index.md",
+    "me_myself_and_i/index.md",
+    "phd_by_publication_authorship_agreement/index.md",
+    "points_on_the_board/index.md"
+  ]
+}

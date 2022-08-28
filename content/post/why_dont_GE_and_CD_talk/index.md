@@ -59,6 +59,3 @@ Of course, I’ll enthusiastically share this second article once it’s publish
 
 
 <div id="commento"></div>
-<script defer
-  src="https://cdn.commento.io/js/commento.js">
-</script>

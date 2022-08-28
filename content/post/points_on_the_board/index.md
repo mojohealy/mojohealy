@@ -67,8 +67,3 @@ This might require me to switch projects, which doesn’t matter much as long as
 If you’d like to create a similar scoreboard, feel free to use my {{% staticref "files/pipeline.xlsx" %}}PhD publication pipeline template{{% /staticref %}}. 
 It’s designed to be printed at A3 size, ready for you to laminate it, put it up on your office wall, and start getting some points on the board. 
 
-
-<div id="commento"></div>
-<script defer
-  src="https://cdn.commento.io/js/commento.js">
-</script>
