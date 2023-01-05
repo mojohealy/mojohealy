@@ -33,7 +33,7 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD candidate, careers and employability"
+  course = "PhD, careers and employability learning"
   institution = "University of Southern Queensland"
 
 [[education.courses]]
