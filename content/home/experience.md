@@ -18,16 +18,16 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Head of Career Development and Employability"
-  company = "Career Ahead"
+  title = "Head of Professional Development Solutions"
+  company = "careerED Academy"
   company_url = "careerahead.com.au"
   location = "Toowoomba, QLD"
   date_start = "2021-09-06"
   date_end = ""
   description = """
-Leading the design and delivery of a Graduate Certificate and Diploma in Career Development.
+Leading the design and delivery of a range of qualifications and professional development programs for career development practitioners.
 
-Contributing to the innovation agenda of Career Ahead and working to elevate and innovate the career development profession in Australia and beyond.
+Working to elevate and innovate the career development profession in Australia and beyond.
    """
    
    [[experience]]
