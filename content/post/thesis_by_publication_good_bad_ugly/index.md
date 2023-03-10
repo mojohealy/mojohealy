@@ -74,7 +74,9 @@ Had these been my first articles rather than the fourth, I can't imagine the kin
 Also, in the reviews I've received and in those I've seen while reviewing for journals, I've seen much variance in review quality. Some reviewers clearly have very little expertise in the topic of the article, but that doesn't stop them exerting their influence over that article's publication and final form. I've seen reviews ignore glaring issues and errors on the one hand, and nit-pick minor or irrelevant concerns on the other. 
 
 # Would I recommend a PhD by Publication? 
-I'm not sure. To be honest, I think I wouldn't. I consider myself lucky to have done mine when I did. When asked, I tell people to be very careful about pursing a goal that relies so much on the house of cards that is peer review in 2023. A better option would be to write and submit a thesis, which does not put your successful completion in the hands of editors and reviewers. I would still recommend trying to publish as you go, rather than waiting until after, given the value in terms of academic capital that I saw in my experience. 
+I'm not sure. To be honest, I don't think I would. I consider myself lucky to have done mine when I did, getting two articles out relatively quickly and painlessly.
+
+When asked, I tell people to be very careful about pursing a goal that relies so much on the house of cards that is peer review in 2023. I share my experience of peer review with my third and fourth articles, with their long waits and mixed review quality. I think, for many PhD candidate, a better option would be to write and submit a thesis, which does not put your successful completion in the hands of editors and reviewers. I would still recommend trying to publish as you go, rather than waiting until after, given the value in terms of academic capital that I saw in my experience. 
 
 Of course, this all is just my experience, in my field of study. I'm sure others would disagree with my conclusions. For a comprehensive resource for PhDs by Publication, in all their diverse glory, be sure to visit the [Thesis by Publication website](https://thesisbypublication.com/). 
 
