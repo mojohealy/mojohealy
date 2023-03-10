@@ -1,14 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "A reflection on the Asia-Pacific Career Development Association conference 2019, Ho Chi Minh City, Vietnam"
-subtitle: ""
-summary: "In 2019 the CDAA supported me to attend the APCDA conference in Viet Nam."
+title: "My experience writing a PhD by Publication: The good, the bad, and the ugly"
+summary: "Reflections on what it was like to puruse a PhD by publication, rather than writing a thesis."
 authors: []
-tags: ["career development practice"]
+tags: ["phd"]
 categories: []
-date: 2020-02-17T00:00:00+00:00
-lastmod: 2020-02-17T00:00:00+00:00
+date: 2022-02-28T00:00:00+00:00
+lastmod: 2022-02-28T00:00:00+00:00
 featured: false
 draft: false
 
@@ -16,7 +15,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "L-R: Felicity Brown, Eric Asato, Anh Nguyen Ngoc (RMIT Vietnam), Phoenix Ho (Hon Viet Institute), Michael Healy (USQ)"
+  caption: "Photo by Alexander Grey on Unsplash"
   focal_point: ""
   preview_only: false
 
@@ -28,47 +27,54 @@ image:
 projects: []
 ---
 
-_This post originally appeared on [Career Panorama](https://www.cdaa.org.au/blog/experiences-and-learnings-from-the-2019-apcda-annual-conference), the blog of the Career Development Association of Australia, who generously supported my travel to the 2019 APCDA conference in Viet Nam._
+It's now been more than a year since I was awarded my PhD. 
+Since then, I've had several current or potential PhD candidates reach out to me to ask about my experience doing a [PhD by publication](https://thesisbypublication.com/), rather than writing a traditional thesis, and to ask for any tips or suggestions. 
+Some have asked me if a PhD by publication is a "better"" option than a traditional thesis, and of course the answer is not black and white. 
+This post is a summary of my responses to those questions, sharing my perspective and experience of writing a PhD by publication. 
 
-In May 2019, I attended the Asia Pacific Career Development Association conference held at RMIT University in Ho Chi Minh City. 
-I am grateful for the generosity of the CDAA who supported my attendance in the form of an international travel grant. 
-For me, this was no ordinary overseas conference, as Viet Nam was home to me for five years and remains my second home.
+# The Good
+Overall, I'm happy that I chose to complete my PhD by publication and have no regrets at all about doing it that way. There are several reasons why it worked well for me: 
 
-I lived in Viet Nam from 2010 until 2015. 
-I met my wife in Viet Nam and my son was born there. 
-Although it’s been more than four years since we moved to Australia, the culture, language, and food of Viet Nam still surrounds me.
+**Project management and motivation:** 
+As a part-time PhD candidate with a full-time job and a family, it made me less anxious to conceive of my PhD as three journal articles. I knew it wouldn't mean *less* work, but it did allow me to focus on each article in turn, and then on writing my exegesis. I even [gamified my progress](https://mojohealy.com/post/points_on_the_board/) toward my goal of at least three journal articles for submission. I know I would have struggled to maintain the motivation to publish from my PhD *after* completion, had I written a traditional thesis.  
+**Academic capital:** I published two articles in leading journals in my field, long before I submitted my PhD for examination. By the time I submitted, my first article had been cited over 30 times. Along the way, I had presented my research at conferences and symposiums, published a couple of book chapters, and contributed to other articles. So suffice to say, that by the time I completed my PhD, my academic capital was already developing quite well. 
+**Collaboration:** As I have [written about before](https://mojohealy.com/post/phd_by_publication_authorship_agreement/), I enjoy co-authoring articles and chapters. Two of the three articles that comprise my PhD by publication were co-authored. As long as I did 50% or more of the work (I actually did closer to 80%), this was totally legitimate. I was even able to write about my collaboration in my autoethnographic exegesis, noting that my first article was written with my supervisors, my second with my peers, and my final one by myself, representing a journey from an apprentice to a fully independent researcher. 
+**Peer review:** Two of the three articles that comprised my PhD had already been through peer review, which gave me some confidence (but not certainty) for the examination of my PhD. I actually included my responses to reviews in my PhD portfolio, to demonstrate how I engaged in the process. Indeed, both examiners still provided feedback on my published articles, but I was able to decline to revise based on the fact that they were published articles, or counter the examiners' criticisms by noting elements of the peer review or explaining how the article was written specifically for the target journal. 
+**Strategic thinking:** The PhD by publication forced me to think about where I wanted to submit each article, before I started writing it, which in turn focused me on who my audience was. Given that my PhD was focussed on the gap between two fields of research, this was a crucial consideration. It helped a lot to have a journal in mind, so I could study their author instructions and find model articles in their table of contents with which I could analyse article structures, language conventions, and discourse communities. 
+**Creativity in the submission:** [PhDs by publication are notoriously diverse](https://thesisbypublication.com/tbp/), with few cut and dried guidelines about how many articles are needed or how they should be organised in the portfolio for submission. Where this would cause great anxiety for some, for me it offered an opportunity to be creative in how I approached my exegesis. I incorporated autoethnographic elements and threaded excerpts from a range of my blog, LinkedIn, and newsletter articles throughout. 
 
-Vietnam is also where I started my career in careers. 
-I started work at RMIT's Ho Chi Minh City campus as an English teacher, but soon took an opportunity to transfer to the careers centre. 
-Initially, I was hesitant and uncertain, because I didn’t understand the work of a career development practitioner. 
-I soon realised the deeply transformational learning that can happen in career education and knew I had found my calling.
+# The Bad
+As positive as my experience was, writing a PhD by publication was not without its challenges. 
+**Restricted scope in writing:** With a journal article being between 6,000 and 8,000 words, at time I struggled to be concise. In a traditional thesis, you have more room to elaborate on ideas, demonstrate knowledge more comprehensively, and reference widely. In my articles, I was challenged to summarise entire fields of scholarship in a sentence or two. Of course, this is a useful skill to learn, but a very challenging one. I also agonised over the number of references in my articles, trying to be parsimonious yet representative and current. It's tough to choose one or two citations to support a given point when you have half a dozen excellent options. 
+**Peer review:** Peer review can be tough on an author. For a start, there is the waiting time, during which you obsessively check the submission portal and try to divine the meaning from the cryptically phrased status updates. I have to admit that this caused me a lot of anxiety. Then there's the reviews themselves, which can be confusing, frustrating, demotivating, or outright insulting. I had mostly good reviews, with no [nightmare reviewer two stories to tell](https://onlinelibrary-wiley-com.elibrary.jcu.edu.au/doi/full/10.1111/joms.12905), but one or two were really poorly done and not particularly helpful. Finally, there is the sting of rejection. A normal part of academic life, to be sure, but nonetheless one that can have a real impact, especially for PhD students who might already be stretched thin emotionally. 
 
-Aside from my personal connection to Viet Nam in general and RMIT VN in particular, my attendance at APCDA 2019 was a highlight of my career to date, for several key reasons.
 
-{{< figure src="ceric_sign.jpg" title="Signing Career Theories and Models at Work. Photo used with permission, courtesy of RMIT Mass Media Club SGS" lightbox="true" >}}
+# The Ugly
+I'm fortunate that there was no ugly in my actual experience. However, based on my experience I can see how a PhD by publication could go horribly, seriously wrong, to the point that I'm now very cautious about recommending it. 
 
-I can’t go without mentioning the book signing for [Career Theories and Models at Work: Ideas for Practice](https://ceric.ca/publications/career-theories-and-models-at-work-ideas-for-practice/), a novel new experience for me. 
-This is a fantastic new book that makes a diverse range of theories accessible for careers practitioners. 
-To be [included in it as an author](https://mojohealy.com/publication/healy-mcilveen-2019/) is an honour and the enthusiastic reception that the book received at APCDA was gratifying and humbling.
+**Peer review:** The [peer review process is at breaking point](https://www.nature.com/articles/d41586-023-00403-8). It has long been under pressure, but during COVID-19 it has all but collapsed. The table below shows the journey of each of my articles, along with another that I worked on but wasn't part of my PhD portfolio, toward publication. The first clearly benefited from that short period of productivity that some of us saw in 2020. But the third and fourth...  My third article was sent out to two completely new reviewers, after we resubmitted our minor revisions. My fourth article went *11 months* before receiving the first round of reviews. People told me I should  withdraw it and resubmit elsewhere, but I was loathe to go back to the end of the queue with another journal, so I stuck it out. I'm yet to resubmit the minor revisions, but I fully expect this article to have a 2023 publication date. 
 
-# Happenstance happens
-Just prior to the conference, the news came out of [Professor John Krumboltz’s passing](https://ed.stanford.edu/news/stanford-professor-john-d-krumboltz-who-developed-theory-planned-happenstance-dies). Krumboltz was the author of the planned happenstance theory, and when delegates enjoyed those seemingly random meetings and coincidences, we often paused to honour the truth of his work. 
-One evening, after a long day at the conference, my colleagues and I piled into the back row of a shuttle bus back to the hotel and struck up conversation with Candy Ho and John Grant, delegates from Canada. 
-Within minutes we had made arrangements for a [shared Saigon street-food dinner](https://twitter.com/CanceHo/status/1133621108958216192/photo/2) and struck up personal and professional friendships. 
-We’re hopeful that we’ll be have an opportunity to meet again at some academic conference or another, or collaborate on a research project. 
-When we do, we’ll toast that chance meeting in a bus’s back seat.
+Had these been my first article rather than the fourth, I can't imagine the kind of stress I'd be under. I imagine my response would have been to submit my articles to less competitive journals and thereby sacrificed some of that academic capital, if I didn't abandon the publication route altogether and switch to a thesis. If my final article was representative of the whole, I would have seriously *suffered* through this process and it would have taken a huge toll on my mental health. 
 
-# It’s important to broaden your horizons
-I have only worked in higher education, and only in two countries (one, really, if you consider the fact that RMIT VN is an Australian satellite campus). 
-It’s important for me to remember how slim that slice of career development life is. 
-I wouldn't normally seek out information on youth work in Hong Kong, vocational education in Taiwan, international students in America, employment services in Korea, stakeholder engagement in Qatar, or workforce planning in Singapore, but at APCDA I enjoyed the exposure to a much more diverse range of career development contexts.
+|                                         | Submission        | First decision                      | Resubmission     | Second decision                   | Resubmission     | Third decision            | Published online | Time from submission to publication     |   |
+|-----------------------------------------|-------------------|-------------------------------------|------------------|-----------------------------------|------------------|---------------------------|------------------|-----------------------------------------|---|
+| Healy, Hammer, & McIlveen (2022)        | 16 May, 2020      | 26 June, 2020: Minor revisions      | 03 July, 2020    | 15 July, 2020: Accept             |                  |                           | 04 August, 2020  | 2 months, 19 days                       |   |
+| Healy, Brown, & Ho (2022)               | 13 December, 2020 | 17 January 2021: Rejected           |                  |                                   |                  |                           |                  | n/a                                     |   |
+| Healy, Brown, & Ho (2022)               | 15 February, 2021 | 10 June, 2021: Minor revisions      | 16 June, 2021    | 21 June, 2021: Accept             |                  |                           | 07 July, 2021    | 4 months, 22 days                       |   |
+| Healy, Cochrane, Grant, & Basson (2023) | 11 October, 2021  | 11 November, 2021: Reject           |                  |                                   |                  |                           |                  |                                         |   |
+| Healy, Cochrane, Grant, & Basson (2023) | 11 November, 2021 | 20 November, 2021: Reject           |                  |                                   |                  |                           |                  |                                         |   |
+| Healy, Cochrane, Grant, & Basson (2023) | 05 January, 2022  | 10 May, 2022: Minor revision        | 26 May, 2022     | 07 October, 2022: Minor revisions | 10 October, 2022 | 01 December, 2022: Accept | 06 January, 2023 | 12 months, 1 day                        |   |
+| Healy (under review)                    | 21 October, 2021  | 27 September, 2022: Major revisions | 06 January, 2023 | 01 March, 2023: Minor revisions   | In preparation   |                           |                  | 1 year, 4 months, 17 days, and counting |   |
+|                                         |                   |                                     |                  |                                   |                  |                           |                  |                                         |   |
+|                                         |                   |                                     |                  |                                   |                  |                           |                  |                                         |   |
 
-I’ve often noticed APAC career practitioners’ interest in Australian research and practice, at conferences like CDAA and NAGCAS. 
-But if we in Australia don’t in return pay attention to what our neighbours are doing, we risk missing out on some truly innovative and inspiring developments.
 
-We also risk paying lip service to diversity if we don’t make efforts to learn from our nearest neighbours. Take the work of my mentor, friend, and former RMIT colleague Phoenix Ho. 
-Phoenix is tackling the shortage of qualified career development professionals in Viet Nam by training and mentoring teachers and consultants as they develop Vietnamese career education and guidance from the ground up. 
-Phoenix is doing this not simply by translating Western theories and tools into Vietnamese, but supporting her students to develop Vietnamese models and theories.
+Also, in the reviews I've received and in those I've seen while reviewing for journals, I've seen much variance in review quality. Some reviewers clearly have very little expertise in the topic of the article, but that doesn't stop them exerting their influence over that article's publication and final form. I've seen reviews ignore glaring issues and errors on the one hand, and nit-pick minor or irrelevant concerns on the other. 
 
-In 2020 the APCDA conference will be in [New Dehli](https://apcda.wildapricot.org/2020-Conference), in 2021 it will be in [Singapore](https://apcda.wildapricot.org/2021-Conference), and in 2022, Azerbaijan. 
-I strongly encourage all Australian career development practitioners to plan to attend the conference and enjoy the kind of experience I had in Viet Nam.
+# Would I recommend a PhD by Publication? 
+I'm not sure. To be honest, I think I wouldn't. I consider myself lucky to have done mine when I did. When asked, I tell people to be very careful about pursing a goal that relies so much on the house of cards that is peer review in 2023. A better option would be to write and submit a thesis, which does not put your successful completion in the hands of editors and reviewers. I would still recommend trying to publish as you go, rather than waiting until after, given the value in terms of academic capital that I saw in my experience. 
+
+Of course, this all is just my experience, in my field of study. I'm sure others would disagree with my conclusions. For a comprehensive resource for PhDs by Publication, in all their diverse glory, be sure to visit the [Thesis by Publication website](https://thesisbypublication.com/). 
+
+
+
