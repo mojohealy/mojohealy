@@ -69,6 +69,7 @@ I'm fortunate that there was no ugly in my actual experience. However, based on 
 {{< figure src="pubs.jpg" title="Fig. 1: Submission history of my thesis by publication articles." >}}
 
 My third article was sent out to two completely new reviewers, after we resubmitted our minor revisions. My fourth article went *11 months* before receiving the first round of reviews. People told me I should  withdraw it and resubmit elsewhere, but I was loathe to go back to the end of the queue with another journal, so I stuck it out. I'm yet to resubmit the minor revisions, but I fully expect this article to have a 2023 publication date.
+
 Had these been my first articles rather than the fourth, I can't imagine the kind of stress I'd be under. I imagine my response would have been to submit my articles to less competitive journals and thereby sacrificed some of that academic capital, if I didn't abandon the publication route altogether and switch to a thesis. If my final article was representative of the whole, I would have seriously *suffered* through this process and it would have taken a huge toll on my mental health. 
 
 Also, in the reviews I've received and in those I've seen while reviewing for journals, I've seen much variance in review quality. Some reviewers clearly have very little expertise in the topic of the article, but that doesn't stop them exerting their influence over that article's publication and final form. I've seen reviews ignore glaring issues and errors on the one hand, and nit-pick minor or irrelevant concerns on the other. 
