@@ -18,16 +18,24 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "National Manager, Career Education"
+  company = "myfuture, Education Services Australia"
+  company_url = "myfuture.edu.au"
+  location = "Toowoomba, QLD"
+  date_start = "2023-07-05"
+  date_end = ""
+  description = """
+Subject matter expert for myfuture.edu.au and leader of professional development and community of practice for career development educators.
+   """
+[[experience]]
   title = "Head of Professional Development Solutions"
   company = "careerED Academy"
   company_url = "careerahead.com.au"
   location = "Toowoomba, QLD"
   date_start = "2021-09-06"
-  date_end = ""
+  date_end = "2023-05-26"
   description = """
 Leading the design and delivery of a range of qualifications and professional development programs for career development practitioners.
-
-Working to elevate and innovate the career development profession in Australia and beyond.
    """
    
    [[experience]]

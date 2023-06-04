@@ -16,7 +16,7 @@ role = "Careers and employability learning expert"
 # organizations = [ { name = "University of Southern Queensland", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I am Head of Professional Development Solutions at careerED Academy. I hold a PhD in careers and employability learning, with several publications to my name. I am passionate about promoting the value and impact of quality careers and employability learning."
+bio = "I am the National Manager, Career Education for myfuture.edu.au. I hold a PhD in careers and employability learning, with several publications to my name. I am passionate about promoting the value and impact of quality careers and employability learning."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -86,6 +86,6 @@ user_groups = ["Researchers", "Visitors"]
 #   link = "files/cv.pdf"
 +++
 
-I am Head of Professional Development Solutions at careerED Academy, where I lead the design and delivery of a range of qualifications and professional development programs for career development practitioners. Prior to this role I have been a careers and employability educator at several universities, leading the development of a range of services and programs in and alongside the curriculum and contributing to the development of institution-wide career, employability, and work-integrated learning strategies and frameworks.  I am recognised as a leader in the field of career development and employability. 
+I am the National Manager, Career Education for myfuture.edu.au, Australia's national career education platform. Prior to this role I led the career development training programs from careerED Academy. I have also been a careers and employability educator at several universities, leading the development of a range of services and programs in and alongside the curriculum and contributing to the development of institution-wide career, employability, and work-integrated learning strategies and frameworks.  I am recognised as a leader in the field of career development and employability. 
 
 I hold a PhD in careers and employability learning and my research has been published in leading international journals and edited collections.
