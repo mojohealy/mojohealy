@@ -22,7 +22,7 @@ Back in June 2020, as we all dealt with the impact of the COVID-19 pandemic, I w
 
 ## Dan John's Four Quadrants
 
-On one axis of the quadrants, illustrated abive, we have the number of qualities needed, such as strength, speed, agility, power, endurance, and so on. On the other axis, we have the required level of mastery of those qualities.
+On one axis of the quadrants, illustrated above, we have the number of qualities needed, such as strength, speed, agility, power, endurance, and so on. On the other axis, we have the required level of mastery of those qualities.
 
 Q1 is where you need to a lot of things, but don't need to do them well. This is basic physical education and play: learning to run, jump, climb, throw, and catch.
 

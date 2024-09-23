@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/four_quadrants_career_development/index.md",
+                "file": "content/authors/mojo/_index.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/four_quadrants_career_development/index.md",
+                "file": "content/authors/mojo/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/four_quadrants_career_development/index.md",
+                "file": "content/authors/mojo/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/four_quadrants_career_development/index.md"
+                "file": "content/authors/mojo/_index.md"
               }
             }
           }
@@ -148,8 +148,15 @@
   },
   "active": "7b981b98a3e26a2d",
   "lastOpenFiles": [
-    "content/post/phd_by_publication_authorship_agreement/index.md",
+    "content/home/about.md",
+    "content/home/accomplishments.md",
+    "content/home/contact.md",
+    "content/home/experience.md",
+    "content/home/featured.md",
+    "content/home/hero.md",
+    "content/authors/mojo/_index.md",
     "content/post/four_quadrants_career_development/index.md",
+    "content/post/phd_by_publication_authorship_agreement/index.md",
     "content/post/four_quadrants_career_development/featured.jpeg",
     "content/publication/mcilveen-healy-2024/index.md",
     "content/publication/mcilveen-healy-2024",
