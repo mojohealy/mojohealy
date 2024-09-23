@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/publication/mcilveen-healy-2024/index.md",
+                "file": "content/post/four_quadrants_career_development/index.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/publication/mcilveen-healy-2024/index.md",
+                "file": "content/post/four_quadrants_career_development/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/publication/mcilveen-healy-2024/index.md",
+                "file": "content/post/four_quadrants_career_development/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/publication/mcilveen-healy-2024/index.md"
+                "file": "content/post/four_quadrants_career_development/index.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "7b981b98a3e26a2d",
   "lastOpenFiles": [
+    "content/post/four_quadrants_career_development/featured.jpeg",
+    "content/publication/mcilveen-healy-2024/index.md",
     "content/publication/mcilveen-healy-2024",
     "content/publication/mcilveen-healy-2024.md",
-    "content/publication/mcilveen-healy-2024/index.md",
     "content/publication/mcilveen-etal-2021/index.md",
     "content/post/four_quadrants_career_development/index.md",
-    "content/post/four_quadrants_career_development/featured.jpeg",
     "content/post/four_quadrants_career_development",
     "content/post/four_quadrants_career_development.md",
     "content/post/_index.md",
