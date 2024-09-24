@@ -11,15 +11,26 @@
             "id": "7b981b98a3e26a2d",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "content/publication/brown-etal-2019/brown-etal-2019.pdf"
+              }
+            }
+          },
+          {
+            "id": "5cbb63f0244f6bb5",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "content/authors/mojo/_index.md",
+                "file": "content/publication/hansen-etal-204/index.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/authors/mojo/_index.md",
+                "file": "content/publication/hansen-etal-204/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/authors/mojo/_index.md",
+                "file": "content/publication/hansen-etal-204/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/authors/mojo/_index.md"
+                "file": "content/publication/hansen-etal-204/index.md"
               }
             }
           }
@@ -146,15 +157,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b981b98a3e26a2d",
+  "active": "5cbb63f0244f6bb5",
   "lastOpenFiles": [
+    "content/publication/hansen-etal-204/Hansen et al. - 2024 - Finding the joy in complexity Privileging the pra.pdf",
+    "content/publication/brown-etal-2019/index.md",
+    "content/publication/hansen-etal-204/index.md",
+    "content/publication/brown-etal-2019/brown-etal-2019.pdf",
+    "content/publication/brown-etal-2019-a/index.md",
+    "content/home/publications.md",
+    "content/publication/hansen-etal-204",
+    "hansen-etal-2024.md",
+    "content/authors/mojo/_index.md",
+    "content/post/four_quadrants_career_development/Sub34_Mr Andrew Norton.pdf",
     "content/home/about.md",
     "content/home/accomplishments.md",
     "content/home/contact.md",
     "content/home/experience.md",
     "content/home/featured.md",
     "content/home/hero.md",
-    "content/authors/mojo/_index.md",
     "content/post/four_quadrants_career_development/index.md",
     "content/post/phd_by_publication_authorship_agreement/index.md",
     "content/post/four_quadrants_career_development/featured.jpeg",
