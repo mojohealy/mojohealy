@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/publication/healy-2023/index.md",
+                "file": "content/publication/hansen-etal-2024/index.md",
                 "mode": "source",
                 "source": true
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/publication/healy-2023/index.md",
+                "file": "content/publication/hansen-etal-2024/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/publication/healy-2023/index.md",
+                "file": "content/publication/hansen-etal-2024/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/publication/healy-2023/index.md"
+                "file": "content/publication/hansen-etal-2024/index.md"
               }
             }
           }
@@ -159,13 +159,13 @@
   },
   "active": "5cbb63f0244f6bb5",
   "lastOpenFiles": [
+    "content/publication/brown-etal-2019-a/index.md",
     "content/publication/hansen-etal-2024/index.md",
     "content/publication/hansen-etal-2024/hansen-etal-2024.pdf",
+    "content/publication/healy-2023/index.md",
     "content/publication/brown-etal-2019/index.md",
     "content/publication/healy_2021/index.md",
     "content/publication/healy_2021/healy_2021.pdf",
-    "content/publication/brown-etal-2019-a/index.md",
-    "content/publication/healy-2023/index.md",
     "content/publication/mcilveen-healy-2024/index.md",
     "content/publication/hansen-etal-204/Hansen et al. - 2024 - Finding the joy in complexity Privileging the pra.pdf",
     "content/publication/hansen-etal-204/index.md",
