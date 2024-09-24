@@ -21,6 +21,16 @@
             "id": "5cbb63f0244f6bb5",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "content/publication/hansen-etal-2024/hansen-etal-2024.pdf"
+              }
+            }
+          },
+          {
+            "id": "912896e0cd12c948",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "content/publication/hansen-etal-2024/index.md",
@@ -30,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,14 +167,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5cbb63f0244f6bb5",
+  "active": "912896e0cd12c948",
   "lastOpenFiles": [
+    "content/publication/hansen-etal-2024/hansen-etal-2024.pdf",
+    "content/publication/hansen-etal-2024/index.md",
+    "content/publication/healy-2023/index.md",
     "content/post/apcda_2019_reflection/index.md",
     "content/publication/hansen-etal-2024/index.md",
     "templates",
     "content/publication/brown-etal-2019-a/index.md",
-    "content/publication/hansen-etal-2024/hansen-etal-2024.pdf",
-    "content/publication/healy-2023/index.md",
     "content/publication/brown-etal-2019/index.md",
     "content/publication/healy_2021/index.md",
     "content/publication/healy_2021/healy_2021.pdf",
