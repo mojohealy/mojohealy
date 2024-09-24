@@ -11,8 +11,9 @@ authors:
   - Jamie Mustard
 publication_types:
   - "2"
-abstract: In this special issue, we are proud to share the unvarnished stories, practical strategies, and insightful provocations from the people who answer the phone when things go wrong on placement, who bear witness to another rejected application and fight for recognition of their contribution to teaching and learning. We have used the term graduate employability practitionerto reflect the diversity of roles contributing to student success in various ways. This term extends the practice beyond work-integrated and career development learning in the curriculum or the role of the career service. This term highlights the collective responsibility of all teaching and student support staff to help students recognise the capabilities they develop through their learning journey (Smith et al., 2018). Moreover, we have a collective obligation to elevate and celebrate quality practice..
+abstract: "In this special issue, we are proud to share the unvarnished stories, practical strategies, and insightful provocations from the people who answer the phone when things go wrong on placement, who bear witness to another rejected application and fight for recognition of their contribution to teaching and learning. We have used the term graduate employability practitionerto reflect the diversity of roles contributing to student success in various ways. This term extends the practice beyond work-integrated and career development learning in the curriculum or the role of the career service. This term highlights the collective responsibility of all teaching and student support staff to help students recognise the capabilities they develop through their learning journey (Smith et al., 2018). Moreover, we have a collective obligation to elevate and celebrate quality practice".
 featured: false
 publication: "*Journal of Teaching and Learning for Graduate Employability*"
 url: "ojs.deakin.edu.au/index.php/jtlge/article/view/2056/1726"
+url_preprint:
 ---
