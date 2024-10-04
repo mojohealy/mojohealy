@@ -10,7 +10,7 @@ abstract: "*Purpose* – Professional networks are conduits for career insight, 
 *Practical implications* – The authors argue this is not yet a body of research that supports the synthesis necessary for a reliable evidence base. The authors recommend that educators employing LinkedIn in the curriculum ground their work in more coherent, cohesive and integrated theories of careers and employability learning. 
 *Originality/value* – This review summarises a body of literature on the use of LinkedIn as a pedagogical tool for careers and employability learning in higher education. This review describes and critiques the beginnings of an evidence-base from which educators can further investigate how students can be supported to develop their online professional networking skills."
 featured: true
-publication: "_Education + Training_"
+publication: "*Education + Training*"
 doi: "10.1108/ET-01-2022-0004"
 url_preprint:
 ---
