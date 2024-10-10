@@ -8,7 +8,7 @@ abstract: "Human beings have the extraordinary ability to talk with one another.
 
 This chapter describes the theoretical foundation and practical implementation of My Career Chapter (McIlveen, 2006), a narrative career assessment and counselling tool designed to enable expression of the client’s dialogical self and the subsequent articulation of a career autobiography. In doing so, the chapter also describes how the theory of dialogical self can be applied to practice in the form of a career writing (Lengelle & Meijers, 2014; Lengelle et al., 2016) intervention for narrative career counselling and career development learning."
 featured: false
-publication: "*Narrative Career Counselling: From Theory to Practice in Diverse Cultures and Contextst*"
+publication: "*Narrative Career Counselling: From Theory to Practice in Diverse Cultures and Contexts*"
 url_website: "https://www.routledge.com/Narrative-Career-Counselling-From-Theory-to-Practice-in-Diverse-Cultures-and-Contexts/McMahon-Abkhezr/p/book/9781003441724"
 doi: "10.4324/9781003441724-10"
 url_preprint:

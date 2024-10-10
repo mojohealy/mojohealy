@@ -1,5 +1,5 @@
 ---
-title: "LinkedIn as a pedagogical tool for careers and employability learning: a scoping review of the literature."
+title: "LinkedIn as a pedagogical tool for careers and employability learning: a scoping review of the literature"
 date: 2023-01-01
 publishDate: 2023-01-01T00:32:00.999999
 authors: ["Michael Healy", "Sandra Cochrane", "Paula Grant", "Marita Basson"]

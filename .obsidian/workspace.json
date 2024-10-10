@@ -11,8 +11,12 @@
             "id": "2ff5b4c3259b6137",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/publication/healy-etal-2020/index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/publication/hansen-etal-2024/index.md",
+                "file": "content/publication/healy-etal-2020/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/publication/hansen-etal-2024/index.md",
+                "file": "content/publication/healy-etal-2020/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/publication/hansen-etal-2024/index.md"
+                "file": "content/publication/healy-etal-2020/index.md"
               }
             }
           }
@@ -142,9 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7297aab6555cf9e2",
+  "active": "2ff5b4c3259b6137",
   "lastOpenFiles": [
+    "content/publication/mcilveen-etal-2021/index.md",
+    "content/publication/healy-etal-2021/index.md",
+    "content/publication/healy-etal-2023/index.md",
     "content/publication/mcilveen-healy-2024/index.md",
+    "content/publication/brown-etal-2019/index.md",
     "content/publication/hansen-etal-2024/index.md",
     "content/publication/healy_2021/index.md",
     "content/publication/_index.md",
@@ -153,7 +161,6 @@
     "content/publication/healy-2023/index.md",
     "content/post/apcda_2019_reflection/index.md",
     "templates",
-    "content/publication/brown-etal-2019/index.md",
     "content/publication/healy_2021/healy_2021.pdf",
     "content/publication/hansen-etal-204/Hansen et al. - 2024 - Finding the joy in complexity Privileging the pra.pdf",
     "content/publication/hansen-etal-204/index.md",
@@ -174,10 +181,8 @@
     "content/post/four_quadrants_career_development/featured.jpeg",
     "content/publication/mcilveen-healy-2024",
     "content/publication/mcilveen-healy-2024.md",
-    "content/publication/mcilveen-etal-2021/index.md",
     "content/post/four_quadrants_career_development",
     "content/post/four_quadrants_career_development.md",
-    "content/post/_index.md",
-    "content/post/why_dont_GE_and_CD_talk/index.md"
+    "content/post/_index.md"
   ]
 }
