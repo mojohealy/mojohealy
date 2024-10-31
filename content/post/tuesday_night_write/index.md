@@ -28,8 +28,7 @@ image:
 projects: []
 ---
 As a part-time PhD candidate with a family and full-time job, my academic writing is most often conducted in self-imposed solitary confinement. 
-Alone in my home office.
-Behind a guilty barricade defending against the delightful distractions of my wife, wee boy, and father.
+Alone in my home office, behind a guilty barricade defending against the delightful distractions of my wife, wee boy, and father.
 After the rest of the family has gone to bed or, less frequently, before they wake up. 
 On my once-per fortnight day off from work for study, and on weekends, and on public holidays.
 
@@ -52,11 +51,11 @@ I sent my colleagues a recurring calendar invite and Zoom meeting link, for 7.00
 I told them I'll be in that Zoom meeting every Tuesday, writing, and if they join me they'll be warmly welcomed. 
 We'll chat a bit about our research, then mute our microphones and write for a bit, before checking in again.
 No obligations and few rules, just some social support and a little bit of healthy accountability. 
-I'll admit that it's can be bit awkward, to see into someone's home and observe them silently writing. 
+I'll admit that it can be bit awkward, to see into someone's home and observe them silently writing. 
 But that's the point: if they are writing, I should be writing. 
 
 I missed the first session, thanks to a massive storm, complete with power cut, earning me some [gentle ribbing](https://twitter.com/AgTradesVocPsyc/status/1204343491469275142) from my colleagues. 
-I've missed one or two Tuesdays since then, due to various family commitments, but overall I'm satisfied with my adherence. 
+I've missed one or two Tuesdays since then, due to various commitments, but overall I'm satisfied with my adherence. 
 I have one pal who regularly joins me, sometimes one or two others show up, and sometimes it's just me, alone in a Zoom meeting, my webcam broadcasting a scene of me writing, to no one. 
 
 The social element of Tuesday Night Write is very important.

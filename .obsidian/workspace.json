@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/publication/healy-etal-2020/index.md",
+                "file": "content/post/tuesday_night_write/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/publication/healy-etal-2020/index.md",
+                "file": "content/post/tuesday_night_write/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/publication/healy-etal-2020/index.md",
+                "file": "content/post/tuesday_night_write/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/publication/healy-etal-2020/index.md"
+                "file": "content/post/tuesday_night_write/index.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "2ff5b4c3259b6137",
   "lastOpenFiles": [
+    "content/authors/mojo/_index.md",
+    "content/publication/healy-etal-2020/index.md",
     "content/publication/mcilveen-etal-2021/index.md",
     "content/publication/healy-etal-2021/index.md",
     "content/publication/healy-etal-2023/index.md",
@@ -168,7 +170,6 @@
     "content/home/publications.md",
     "content/publication/hansen-etal-204",
     "hansen-etal-2024.md",
-    "content/authors/mojo/_index.md",
     "content/post/four_quadrants_career_development/Sub34_Mr Andrew Norton.pdf",
     "content/home/about.md",
     "content/home/accomplishments.md",
@@ -182,7 +183,6 @@
     "content/publication/mcilveen-healy-2024",
     "content/publication/mcilveen-healy-2024.md",
     "content/post/four_quadrants_career_development",
-    "content/post/four_quadrants_career_development.md",
-    "content/post/_index.md"
+    "content/post/four_quadrants_career_development.md"
   ]
 }
