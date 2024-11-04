@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/publication/healy_2021/index.md",
+                "file": "content/terms.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "terms"
             }
           }
         ],
@@ -193,6 +193,9 @@
   },
   "active": "413697df3633852c",
   "lastOpenFiles": [
+    "content/privacy.md",
+    "content/terms.md",
+    "content/publication/healy_2021/index.md",
     "content/publication/donald-healy-2024/index.md",
     "content/publication/donald-healy-2024/donald-healy-2024.pdf",
     "content/publication/donald-healy-2024",
@@ -204,7 +207,6 @@
     "content/publication/brown-etal-2019-a/index.md",
     "content/publication/brown-etal-2019/index.md",
     "content/publication/brown-etal-2019/brown-etal-2019.pdf",
-    "content/publication/healy_2021/index.md",
     "content/publication/hansen-etal-2024/index.md",
     "content/publication/healy-etal-2021/index.md",
     "content/publication/mcilveen-healy-2024/index.md",
@@ -226,8 +228,6 @@
     "themes/academic/archetypes/home.md",
     "themes/academic/archetypes/default.md",
     "themes/academic/assets/images/icon.png",
-    "content/home/hero.md",
-    "content/project/bridging_the_gap/index.md",
     "content/project/bridging_the_gap/featured.jpg",
     "themes/academic/images/tn.png",
     "themes/academic/images/themes.png",
