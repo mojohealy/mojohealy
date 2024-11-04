@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/publication/donald healy 2024/index.md",
+                "file": "content/publication/healy_2021/index.md",
                 "mode": "source",
                 "source": true
               },
@@ -193,8 +193,15 @@
   },
   "active": "413697df3633852c",
   "lastOpenFiles": [
-    "content/publication/brown-etal-2019-a/index.md",
+    "content/publication/donald-healy-2024/index.md",
+    "content/publication/donald-healy-2024/donald-healy-2024.pdf",
+    "content/publication/donald-healy-2024",
+    "content/publication/donald healy 2024/donald-healy-2024.pdf",
+    "content/publication/donald healy 2024/Donald and Healy - 2024 - Differentiating Grapes from Wine The Education-To copy.pdf",
+    "Donald and Healy - 2024 - Differentiating Grapes from Wine The Education-To copy.pdf",
+    "Donald and Healy - 2024 - Differentiating Grapes from Wine The Education-To.pdf",
     "content/publication/donald healy 2024/index.md",
+    "content/publication/brown-etal-2019-a/index.md",
     "content/publication/brown-etal-2019/index.md",
     "content/publication/brown-etal-2019/brown-etal-2019.pdf",
     "content/publication/healy_2021/index.md",
@@ -222,17 +229,10 @@
     "content/home/hero.md",
     "content/project/bridging_the_gap/index.md",
     "content/project/bridging_the_gap/featured.jpg",
-    "themes/academic/archetypes/authors/_index.md",
     "themes/academic/images/tn.png",
     "themes/academic/images/themes.png",
     "content/publication/hansen-etal-2024/hansen-etal-2024.pdf",
     "templates",
-    "content/publication/healy_2021/healy_2021.pdf",
-    "content/publication/hansen-etal-204/Hansen et al. - 2024 - Finding the joy in complexity Privileging the pra.pdf",
-    "content/publication/hansen-etal-204",
-    "content/post/four_quadrants_career_development/Sub34_Mr Andrew Norton.pdf",
-    "content/post/four_quadrants_career_development/featured.jpeg",
-    "content/publication/mcilveen-healy-2024",
-    "content/post/four_quadrants_career_development"
+    "content/post/four_quadrants_career_development/featured.jpeg"
   ]
 }
