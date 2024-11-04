@@ -41,12 +41,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "content/home/accomplishments.md",
+=======
+                "file": "content/terms.md",
+>>>>>>> parent of 6a54600 (Tinkering with about me)
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "accomplishments"
+=======
+              "title": "terms"
+>>>>>>> parent of 6a54600 (Tinkering with about me)
             }
           }
         ],
@@ -193,6 +201,7 @@
   },
   "active": "413697df3633852c",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "content/home/publications.md",
     "content/home/accomplishments.md",
     "content/home/about.md",
@@ -221,18 +230,48 @@
     "content/about me/index.md",
     "content/about me/hero.md",
     "content/about me",
+=======
+    "content/privacy.md",
+    "content/terms.md",
+    "content/publication/healy_2021/index.md",
+    "content/publication/donald-healy-2024/index.md",
+>>>>>>> parent of 6a54600 (Tinkering with about me)
     "content/publication/donald-healy-2024/donald-healy-2024.pdf",
     "content/publication/donald-healy-2024",
     "content/publication/donald healy 2024/donald-healy-2024.pdf",
     "content/publication/donald healy 2024/Donald and Healy - 2024 - Differentiating Grapes from Wine The Education-To copy.pdf",
     "Donald and Healy - 2024 - Differentiating Grapes from Wine The Education-To copy.pdf",
     "Donald and Healy - 2024 - Differentiating Grapes from Wine The Education-To.pdf",
+    "content/publication/donald healy 2024/index.md",
+    "content/publication/brown-etal-2019-a/index.md",
+    "content/publication/brown-etal-2019/index.md",
     "content/publication/brown-etal-2019/brown-etal-2019.pdf",
+    "content/publication/hansen-etal-2024/index.md",
+    "content/publication/healy-etal-2021/index.md",
+    "content/publication/mcilveen-healy-2024/index.md",
+    "content/publication/_index.md",
     "content/publication/donald healy 2024",
+    "content/home/publications.md",
+    "content/home/projects.md",
+    "content/home/skills.md",
+    "content/home/slider.md",
+    "content/home/tags.md",
+    "content/home/talks.md",
+    "content/home/contact.md",
+    "content/home/featured.md",
+    "content/home/index.md",
+    "content/home/people.md",
+    "content/home/posts.md",
+    "content/home/about.md",
+    "content/authors/mojo/_index.md",
+    "themes/academic/archetypes/home.md",
+    "themes/academic/archetypes/default.md",
     "themes/academic/assets/images/icon.png",
     "content/project/bridging_the_gap/featured.jpg",
     "themes/academic/images/tn.png",
     "themes/academic/images/themes.png",
+    "content/publication/hansen-etal-2024/hansen-etal-2024.pdf",
+    "templates",
     "content/post/four_quadrants_career_development/featured.jpeg"
   ]
 }
