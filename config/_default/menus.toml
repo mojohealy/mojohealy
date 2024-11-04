@@ -14,7 +14,7 @@
   url = "#publications"
   weight = 30
 
-[[main]]
+[main]]
 
   name = "Awards"
   url = "#accomplishments"
