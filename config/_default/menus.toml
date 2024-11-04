@@ -16,9 +16,9 @@
 
 [main]]
 
- name = "Awards"
- url = "#accomplishments"
- weight = 40
+  name = "Awards"
+  url = "#accomplishments"
+  weight = 40
 
 #[[main]]
 #  name = "Talks"
