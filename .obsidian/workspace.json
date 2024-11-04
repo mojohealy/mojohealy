@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/home/accomplishments.md",
+                "file": "content/home/awards.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "accomplishments"
+              "title": "awards"
             }
           }
         ],
@@ -194,7 +194,7 @@
   "active": "413697df3633852c",
   "lastOpenFiles": [
     "content/home/publications.md",
-    "content/home/accomplishments.md",
+    "content/home/awards.md",
     "content/home/about.md",
     "content/terms.md",
     "content/home/talks.md",
