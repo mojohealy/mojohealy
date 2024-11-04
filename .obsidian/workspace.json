@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/home/awards.md",
+                "file": "content/home/about.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "awards"
+              "title": "about"
             }
           }
         ],
@@ -193,14 +193,14 @@
   },
   "active": "413697df3633852c",
   "lastOpenFiles": [
-    "content/home/publications.md",
-    "content/home/awards.md",
+    "content/home/accomplishments.md",
     "content/home/about.md",
     "content/terms.md",
     "content/home/talks.md",
     "content/home/tags.md",
     "content/home/slider.md",
     "content/home/skills.md",
+    "content/home/publications.md",
     "content/home/projects.md",
     "content/home/posts.md",
     "content/home/people.md",
