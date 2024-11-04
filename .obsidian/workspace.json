@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/home/hero.md",
+                "file": "content/publication/brown-etal-2019-a/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "hero"
+              "title": "index"
+            }
+          },
+          {
+            "id": "413697df3633852c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/publication/donald healy 2024/index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,43 +191,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38683d4086874450",
+  "active": "413697df3633852c",
   "lastOpenFiles": [
+    "content/publication/healy_2021/index.md",
+    "content/publication/donald healy 2024/index.md",
+    "content/publication/hansen-etal-2024/index.md",
+    "content/publication/healy-etal-2021/index.md",
+    "content/publication/mcilveen-healy-2024/index.md",
+    "content/publication/_index.md",
+    "content/publication/donald healy 2024",
+    "content/publication/brown-etal-2019-a/index.md",
+    "content/home/publications.md",
+    "content/home/projects.md",
+    "content/home/skills.md",
+    "content/home/slider.md",
+    "content/home/tags.md",
+    "content/home/talks.md",
+    "content/home/contact.md",
     "content/home/featured.md",
-    "content/home/accomplishments.md",
+    "content/home/index.md",
+    "content/home/people.md",
+    "content/home/posts.md",
     "content/home/about.md",
     "content/authors/mojo/_index.md",
-    "content/publication/healy-etal-2020/index.md",
-    "content/publication/mcilveen-etal-2021/index.md",
-    "content/publication/healy-etal-2021/index.md",
-    "content/publication/healy-etal-2023/index.md",
-    "content/publication/mcilveen-healy-2024/index.md",
-    "content/publication/brown-etal-2019/index.md",
-    "content/publication/hansen-etal-2024/index.md",
-    "content/publication/healy_2021/index.md",
-    "content/publication/_index.md",
+    "themes/academic/archetypes/home.md",
+    "themes/academic/archetypes/default.md",
+    "themes/academic/assets/images/icon.png",
+    "content/home/hero.md",
+    "content/project/bridging_the_gap/index.md",
+    "content/project/bridging_the_gap/featured.jpg",
+    "themes/academic/archetypes/authors/_index.md",
+    "themes/academic/exampleSite/content/authors/admin/_index.md",
+    "themes/academic/images/tn.png",
+    "themes/academic/images/themes.png",
     "content/publication/hansen-etal-2024/hansen-etal-2024.pdf",
-    "content/publication/brown-etal-2019-a/index.md",
-    "content/publication/healy-2023/index.md",
-    "content/post/apcda_2019_reflection/index.md",
     "templates",
     "content/publication/healy_2021/healy_2021.pdf",
     "content/publication/hansen-etal-204/Hansen et al. - 2024 - Finding the joy in complexity Privileging the pra.pdf",
-    "content/publication/hansen-etal-204/index.md",
     "content/publication/brown-etal-2019/brown-etal-2019.pdf",
-    "content/home/publications.md",
     "content/publication/hansen-etal-204",
-    "hansen-etal-2024.md",
     "content/post/four_quadrants_career_development/Sub34_Mr Andrew Norton.pdf",
-    "content/home/contact.md",
-    "content/home/experience.md",
-    "content/home/hero.md",
-    "content/post/four_quadrants_career_development/index.md",
-    "content/post/phd_by_publication_authorship_agreement/index.md",
     "content/post/four_quadrants_career_development/featured.jpeg",
     "content/publication/mcilveen-healy-2024",
-    "content/publication/mcilveen-healy-2024.md",
-    "content/post/four_quadrants_career_development",
-    "content/post/four_quadrants_career_development.md"
+    "content/post/four_quadrants_career_development"
   ]
 }
