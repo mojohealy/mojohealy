@@ -14,6 +14,12 @@
   url = "#publications"
   weight = 30
 
+[main]]
+
+ name = "Awards"
+ url = "#awards"
+ weight = 40
+
 #[[main]]
 #  name = "Talks"
 # url = "#talks"
