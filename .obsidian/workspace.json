@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/home/about.md",
+                "file": "content/home/experience.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "experience"
             }
           }
         ],
@@ -193,8 +193,9 @@
   },
   "active": "413697df3633852c",
   "lastOpenFiles": [
-    "content/home/accomplishments.md",
+    "content/authors/mojo/_index.md",
     "content/home/about.md",
+    "content/home/accomplishments.md",
     "content/terms.md",
     "content/home/talks.md",
     "content/home/tags.md",
@@ -219,7 +220,6 @@
     "content/about me/posts.md",
     "content/about me/people.md",
     "content/about me/index.md",
-    "content/about me/hero.md",
     "content/about me",
     "content/publication/donald-healy-2024/donald-healy-2024.pdf",
     "content/publication/donald-healy-2024",
