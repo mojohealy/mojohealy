@@ -26,7 +26,7 @@ interests = [
   "Careers and employability learning",
   "Work-integrated learning",
   "Career development professional practice",
-  "Narrative and dialogical career identity"]
+  "Narrative career identity"]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
