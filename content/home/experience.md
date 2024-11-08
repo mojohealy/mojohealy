@@ -28,20 +28,22 @@ date_format = "Jan 2006"
 Leading professional development programs for Australian career development educators and providing expert advice to to myfuture.edu.au.
    """
 [[experience]]
-  title = "Head of Professional Development Solutions"
+  title = "Head of Careers and Employability; Lecturer, Career Development"
   company = "careerED Academy"
-  company_url = "careerahead.com.au"
+  company_url = "https://careeredacademy.com.au/"
   location = "Toowoomba, QLD"
   date_start = "2021-09-06"
   date_end = "2023-05-26"
   description = """
 Led the design and delivery of a range of qualifications and professional development programs for career development practitioners.
+
+Lead lecturer in Graduate Certificate of Career Development, delivered in partnership with James Cook University. 
    """
    
    [[experience]]
   title = "Employability Coordinator"
   company = "University of Southern Queensland"
-  company_url = "usq.edu.au"
+  company_url = "unisq.edu.au"
   location = "Toowoomba, QLD"
   date_start = "2018-03-01"
   date_end = "2021-09-01"
