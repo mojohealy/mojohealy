@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Accomplishments"
+title = "Awards"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,53 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Career Development Association of Australia"
+  organization_url = ""
+  title = "Award for Excellence in Leadership"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2024-10-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Asia-PAcific Career Development Association"
+  organization_url = ""
+  title = "Outstanding Educator of CAreer Development Professionals"
+  url = ""
+  certificate_url = ""
+  date_start = "2023-05-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Career Development Association of Australia"
+  organization_url = ""
+  title = "Award for Excellence in Research"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = ""
+  date_start = "2022-10-01"
+  date_end = ""
   description = ""
 
+[[item]]
+  organization = "National Association of Graduate Careers Advisory Services"
+  organization_url = ""
+  title = "Award for Excellence in Research"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-11-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Career Development Association of Australia, Queensland Division"
+  organization_url = ""
+  title = "Award for Excellence in Professional Practice"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-11-01"
+  date_end = ""
+  description = ""
+  
 +++
