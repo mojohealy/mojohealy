@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2023-07-05"
   date_end = ""
   description = """
-Subject matter expert for myfuture.edu.au and leader of professional development and community of practice for career development educators.
+Leading professional development programs for Australian career development educators and providing expert advice to to myfuture.edu.au.
    """
 [[experience]]
   title = "Head of Professional Development Solutions"
@@ -35,7 +35,7 @@ Subject matter expert for myfuture.edu.au and leader of professional development
   date_start = "2021-09-06"
   date_end = "2023-05-26"
   description = """
-Leading the design and delivery of a range of qualifications and professional development programs for career development practitioners.
+Led the design and delivery of a range of qualifications and professional development programs for career development practitioners.
    """
    
    [[experience]]
@@ -46,9 +46,9 @@ Leading the design and delivery of a range of qualifications and professional de
   date_start = "2018-03-01"
   date_end = "2021-09-01"
   description = """
-  Leading a team of employer engagement specialists to deliver a range of  services and programs designed to enhance the employability, graduate outcomes, and entrepreneurial mindset of USQ students.
+  Led a range of  services and programs designed to enhance the employability, graduate outcomes, and entrepreneurial mindset of USQ students.
   
-  Collaborating with academics to incorporate careers and employability learning into the curricula of degree programs
+  Collaborated with academics to incorporate careers and employability learning and work-integrated learning into the curricula of degree programs.
    """
 
 [[experience]]
@@ -61,7 +61,7 @@ Leading the design and delivery of a range of qualifications and professional de
   description = """
   Developed a comprehensive career education curriculum in support of Career Ready Advantage, a major institution-wide employability initiative.
   
-  Collaborated with academics to incorporate careers and employability learning into the curricula of degree programs.
+  Collaborated with academics to incorporate careers and employability learning and work-integrated learning into the curricula of degree programs.
   """
 [[experience]]
   title = "Career Development Consultant"
@@ -71,8 +71,6 @@ Leading the design and delivery of a range of qualifications and professional de
   date_start = "2012-06-01"
   date_end = "2015-03-01"
   description = """
- Wrote and led the publication of Explore, Experience, Engage, a workbook to support students' careers and employability learning.
- 
 Led the development and delivery of Career Passport, a blended careers and employability learning program delivered to more than 200 students per trimester.
   """
   
@@ -84,7 +82,7 @@ Led the development and delivery of Career Passport, a blended careers and emplo
   date_start = "2006-11-01"
   date_end = "2012-06-01"
   description = """
-Teaching English language, writing, and research skills in English for Academic Purposes programs. 
+Taught English language, writing, and research skills in English for Academic Purposes programs. 
   """
 +++
 
