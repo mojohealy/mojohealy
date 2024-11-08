@@ -39,14 +39,12 @@
             "id": "413697df3633852c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/home/accomplishments.md",
-                "mode": "source",
-                "source": false
+                "file": "content/authors/mojo/avatar.jpg"
               },
-              "icon": "lucide-file",
-              "title": "accomplishments"
+              "icon": "lucide-image",
+              "title": "avatar"
             }
           }
         ],
@@ -193,7 +191,6 @@
   },
   "active": "413697df3633852c",
   "lastOpenFiles": [
-    "content/authors/mojo/avatar.jpg",
     "content/home/experience.md",
     "content/authors/mojo/_index.md",
     "content/home/about.md",
@@ -220,6 +217,7 @@
     "content/about me/projects.md",
     "content/about me/posts.md",
     "content/about me/people.md",
+    "content/about me/index.md",
     "content/about me",
     "content/publication/donald-healy-2024/donald-healy-2024.pdf",
     "content/publication/donald-healy-2024",
