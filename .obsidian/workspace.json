@@ -39,14 +39,12 @@
             "id": "413697df3633852c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/home/experience.md",
-                "mode": "source",
-                "source": true
+                "file": "content/authors/mojo/avatar.jpg"
               },
-              "icon": "lucide-file",
-              "title": "experience"
+              "icon": "lucide-image",
+              "title": "avatar"
             }
           }
         ],
@@ -193,6 +191,7 @@
   },
   "active": "413697df3633852c",
   "lastOpenFiles": [
+    "content/home/experience.md",
     "content/authors/mojo/_index.md",
     "content/home/about.md",
     "content/home/accomplishments.md",
@@ -207,7 +206,6 @@
     "content/home/people.md",
     "content/home/index.md",
     "content/home/featured.md",
-    "content/home/experience.md",
     "content/home/hero.md",
     "content/home/contact.md",
     "content/home",
