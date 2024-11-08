@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Awards"
-subtitle = ""
+subtitle = "I have received several awards for excellence from various professional associations. "
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -67,5 +67,5 @@ date_format = "Jan 2006"
   date_start = "2021-11-01"
   date_end = ""
   description = ""
-  
+
 +++

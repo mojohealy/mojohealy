@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Publications"
-subtitle = "Pre-print pdfs available on request"
+subtitle = "I have published my research in leading international journals and edited collections."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
