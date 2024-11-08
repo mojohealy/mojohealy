@@ -82,6 +82,4 @@ user_groups = ["Researchers", "Visitors"]
 #   link = "files/cv.pdf"
 +++
 
-I am the National Manager, Career Education for myfuture.edu.au, Australia's national career education platform. Prior to this role I led the design and delivery of career development training programs for careerED Academy. I have also been a careers and employability educator at several universities, leading the development of a range of services and programs in and alongside the curriculum and contributing to the development of institution-wide career, employability, and work-integrated learning strategies and frameworks. I am recognised as a leader in the field of career development and employability. 
-
-I hold a PhD in careers and employability learning and my research has been published in leading international journals and edited collections.
+Dr. Michael Healy is a recognised leader in the field of career development and employability. An award-winning educator and researcher, his work focuses on promoting effective and accessible careers and employability learning in schools, universities, and human services. Michael combines scholarly expertise with practical wisdom, gained from his 15 years of professional experience, a PhD in career education, and high quality research publications. 

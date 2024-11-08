@@ -88,6 +88,4 @@ Teaching English language, writing, and research skills in English for Academic 
   """
 +++
 
-I have been working in higher education careers and employability since 2012. Prior to that, I was an English language and academic skills teacher for about six years. I've always enjoyed helping people express themselves through language. 
 
-As much as I enjoy my work now, my favourite job will always be looking after [Browsers Quality Secondhand Books](https://www.facebook.com/Browsersbookshop) on the weekends and evenings during my undergraduate years. 
