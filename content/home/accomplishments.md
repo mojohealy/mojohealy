@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Asia-PAcific Career Development Association"
+  organization = "Asia-Pscific Career Development Association"
   organization_url = ""
   title = "Outstanding Educator of CAreer Development Professionals"
   url = ""

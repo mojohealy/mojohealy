@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/home/experience.md",
+                "file": "content/home/accomplishments.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "experience"
+              "title": "accomplishments"
             }
           }
         ],
@@ -193,6 +193,8 @@
   },
   "active": "413697df3633852c",
   "lastOpenFiles": [
+    "content/home/experience.md",
+    "content/home/projects.md",
     "content/authors/mojo/_index.md",
     "content/home/about.md",
     "content/home/accomplishments.md",
@@ -202,12 +204,10 @@
     "content/home/slider.md",
     "content/home/skills.md",
     "content/home/publications.md",
-    "content/home/projects.md",
     "content/home/posts.md",
     "content/home/people.md",
     "content/home/index.md",
     "content/home/featured.md",
-    "content/home/experience.md",
     "content/home/hero.md",
     "content/home/contact.md",
     "content/home",
