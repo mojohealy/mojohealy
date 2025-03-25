@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/home/accomplishments.md",
+                "file": "content/publication/healy-etal-2025/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "accomplishments"
+              "title": "index"
             }
           }
         ],
@@ -69,7 +69,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -193,17 +194,18 @@
   },
   "active": "413697df3633852c",
   "lastOpenFiles": [
+    "content/home/publications.md",
+    "k",
+    "content/home/accomplishments.md",
     "content/home/experience.md",
     "content/home/projects.md",
     "content/authors/mojo/_index.md",
     "content/home/about.md",
-    "content/home/accomplishments.md",
     "content/terms.md",
     "content/home/talks.md",
     "content/home/tags.md",
     "content/home/slider.md",
     "content/home/skills.md",
-    "content/home/publications.md",
     "content/home/posts.md",
     "content/home/people.md",
     "content/home/index.md",
@@ -219,7 +221,6 @@
     "content/about me/projects.md",
     "content/about me/posts.md",
     "content/about me/people.md",
-    "content/about me/index.md",
     "content/about me",
     "content/publication/donald-healy-2024/donald-healy-2024.pdf",
     "content/publication/donald-healy-2024",
@@ -228,7 +229,6 @@
     "Donald and Healy - 2024 - Differentiating Grapes from Wine The Education-To copy.pdf",
     "Donald and Healy - 2024 - Differentiating Grapes from Wine The Education-To.pdf",
     "content/publication/brown-etal-2019/brown-etal-2019.pdf",
-    "content/publication/donald healy 2024",
     "themes/academic/assets/images/icon.png",
     "content/project/bridging_the_gap/featured.jpg",
     "themes/academic/images/tn.png",
