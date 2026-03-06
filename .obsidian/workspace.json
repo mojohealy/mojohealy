@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/publication/healy-etal-2025/index.md",
+                "file": "content/publication/healy-etal-2026/index.md",
                 "mode": "source",
                 "source": true
               },
@@ -184,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -194,12 +195,15 @@
   },
   "active": "413697df3633852c",
   "lastOpenFiles": [
+    "content/publication/healy-etal-2025/index.md",
+    "content/publication/healy-etal-2026/index.md",
+    "content/publication/healy-etal-2026",
+    "content/authors/mojo/_index.md",
     "content/home/publications.md",
     "k",
     "content/home/accomplishments.md",
     "content/home/experience.md",
     "content/home/projects.md",
-    "content/authors/mojo/_index.md",
     "content/home/about.md",
     "content/terms.md",
     "content/home/talks.md",
@@ -220,7 +224,6 @@
     "content/about me/publications.md",
     "content/about me/projects.md",
     "content/about me/posts.md",
-    "content/about me/people.md",
     "content/about me",
     "content/publication/donald-healy-2024/donald-healy-2024.pdf",
     "content/publication/donald-healy-2024",
@@ -228,7 +231,6 @@
     "content/publication/donald healy 2024/Donald and Healy - 2024 - Differentiating Grapes from Wine The Education-To copy.pdf",
     "Donald and Healy - 2024 - Differentiating Grapes from Wine The Education-To copy.pdf",
     "Donald and Healy - 2024 - Differentiating Grapes from Wine The Education-To.pdf",
-    "content/publication/brown-etal-2019/brown-etal-2019.pdf",
     "themes/academic/assets/images/icon.png",
     "content/project/bridging_the_gap/featured.jpg",
     "themes/academic/images/tn.png",
