@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5554d2786d1bb25b",
+        "id": "589381d0a6c7324a",
         "type": "tabs",
         "children": [
           {
-            "id": "2ff5b4c3259b6137",
+            "id": "9a4e4c9697fca457",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/tuesday_night_write/index.md",
+                "file": "content/publication/donald-healy-2025/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "38683d4086874450",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/publication/brown-etal-2019-a/index.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "413697df3633852c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/publication/healy-etal-2026/index.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,10 +164,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "413697df3633852c",
+  "active": "9a4e4c9697fca457",
   "lastOpenFiles": [
-    "content/publication/healy-etal-2025/index.md",
+    "content/publication/donald-healy-2025/donald-healy-2024.pdf",
+    "content/publication/donald-healy-2024/donald-healy-2024.pdf",
     "content/publication/healy-etal-2026/index.md",
+    "content/publication/donald-healy-2025/index.md",
+    "content/publication/donald-healy-2025",
+    "content/publication/healy-etal-2025/index.md",
     "content/publication/healy-etal-2026",
     "content/authors/mojo/_index.md",
     "content/home/publications.md",
@@ -222,15 +197,10 @@
     "content/about me/tags.md",
     "content/about me/skills.md",
     "content/about me/publications.md",
-    "content/about me/projects.md",
-    "content/about me/posts.md",
     "content/about me",
-    "content/publication/donald-healy-2024/donald-healy-2024.pdf",
     "content/publication/donald-healy-2024",
     "content/publication/donald healy 2024/donald-healy-2024.pdf",
     "content/publication/donald healy 2024/Donald and Healy - 2024 - Differentiating Grapes from Wine The Education-To copy.pdf",
-    "Donald and Healy - 2024 - Differentiating Grapes from Wine The Education-To copy.pdf",
-    "Donald and Healy - 2024 - Differentiating Grapes from Wine The Education-To.pdf",
     "themes/academic/assets/images/icon.png",
     "content/project/bridging_the_gap/featured.jpg",
     "themes/academic/images/tn.png",
