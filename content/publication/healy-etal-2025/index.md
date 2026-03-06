@@ -1,5 +1,5 @@
 ---
-title: "11 topics among 7,591 employability research abstracts (1942–2024): a structural topic model and call for interdisciplinary perspectives"
+title: "11 topics among 7,591 employability research abstracts (1942–2024): A structural topic model and call for interdisciplinary perspectives"
 date: 2025-01-01
 publishDate: 2025-01-01T00:32:00.999999
 authors: ["Michael Healy", "Peter McIlveen", "Jason. L Brown", "Beatrice Van der Heijden", "William E. Donald"]
